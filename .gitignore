@@ -1,0 +1,33 @@
+# Large data files
+data/
+*.tif
+*.tiff
+*.h5
+*.hdf5
+
+# Model checkpoints (large)
+experiments/pretrain_mim/
+experiments/finetune/
+experiments/ablation_studies/A1_no_cross_attn/checkpoint*
+experiments/ablation_studies/A2_no_cca/checkpoint*
+experiments/ablation_studies/A3_geo_only/checkpoint*
+experiments/ablation_studies/A4_aero_only/checkpoint*
+
+# Keep metrics JSON files
+!experiments/ablation_studies/*/metrics.json
+!experiments/ablation_studies/summary.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+*.egg-info/
+
+# Logs
+*.log
+nohup.out
+
+# Results - keep figures, exclude large tifs
+results/prospectivity_maps/
+results/baselines/

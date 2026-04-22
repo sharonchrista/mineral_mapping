@@ -1,0 +1,530 @@
+{
+  "aeromag": {
+    "rasters": [
+      {
+        "file": "TAIL_TMI_GE.tiff",
+        "crs": "EPSG:32643",
+        "bands": 1,
+        "width": 5055,
+        "height": 5944,
+        "res_x": 37.5,
+        "res_y": 37.5,
+        "dtype": "float64",
+        "bounds": [
+          607181.25,
+          1520306.25,
+          796743.75,
+          1743206.25
+        ],
+        "nodata": 1.70141e+38
+      }
+    ],
+    "vectors": []
+  },
+  "geo_25k": {
+    "rasters": [],
+    "vectors": [
+      {
+        "file": "shear_zone_25k_ngdr_20250224141143411.shp",
+        "crs": "EPSG:4326",
+        "features": 97,
+        "geom_type": {
+          "LineString": 80,
+          "MultiLineString": 17
+        },
+        "columns": [
+          "gid",
+          "input_cent",
+          "edition_no",
+          "toposheet_",
+          "name",
+          "kinematics",
+          "trends",
+          "accession_",
+          "remarks",
+          "shape_leng",
+          "geometry"
+        ],
+        "bounds": [
+          76.1118,
+          14.048,
+          77.7431,
+          15.6896
+        ]
+      },
+      {
+        "file": "fold_25k_ngdr_20250224140917945.shp",
+        "crs": "EPSG:4326",
+        "features": 24,
+        "geom_type": {
+          "LineString": 16,
+          "MultiLineString": 8
+        },
+        "columns": [
+          "gid",
+          "__gid",
+          "input_cent",
+          "edition_no",
+          "toposheet_",
+          "fold_type",
+          "generation",
+          "strike_axi",
+          "axial_plan",
+          "axial_pl_1",
+          "fold_axis_",
+          "fold_axis1",
+          "accession_",
+          "remarks",
+          "shape_leng",
+          "geometry"
+        ],
+        "bounds": [
+          76.0182,
+          14.0292,
+          76.3329,
+          14.4166
+        ]
+      },
+      {
+        "file": "fault_25k_ngdr_20250224140917945.shp",
+        "crs": "EPSG:4326",
+        "features": 16,
+        "geom_type": {
+          "LineString": 16
+        },
+        "columns": [
+          "gid",
+          "input_cent",
+          "edition_no",
+          "toposheet_",
+          "fault_type",
+          "fault_name",
+          "kinematics",
+          "strike",
+          "dip",
+          "displaceme",
+          "downthrow_",
+          "neotech_ac",
+          "age_activa",
+          "accession_",
+          "remarks",
+          "shape_leng",
+          "geometry"
+        ],
+        "bounds": [
+          76.1743,
+          13.887,
+          77.7068,
+          15.3002
+        ]
+      },
+      {
+        "file": "dyke_line_25k_ngdr.shp",
+        "crs": "EPSG:4326",
+        "features": 603,
+        "geom_type": {
+          "LineString": 552,
+          "MultiLineString": 51
+        },
+        "columns": [
+          "gid",
+          "objectid",
+          "input_cent",
+          "edition_no",
+          "toposheet_",
+          "dyke_type",
+          "lithology",
+          "stratigrap",
+          "supergroup",
+          "group_name",
+          "sub_group",
+          "formation",
+          "member",
+          "accession_",
+          "remarks",
+          "shape_leng",
+          "geometry"
+        ],
+        "bounds": [
+          76.1434,
+          14.0209,
+          77.75,
+          15.75
+        ]
+      },
+      {
+        "file": "mine_quarry_25k_ngdr_20250224140917945.shp",
+        "crs": "EPSG:4326",
+        "features": 40,
+        "geom_type": {
+          "Point": 40
+        },
+        "columns": [
+          "gid",
+          "input_cent",
+          "edition_no",
+          "toposheet_",
+          "commodity",
+          "status",
+          "accession_",
+          "remarks",
+          "geometry"
+        ],
+        "bounds": [
+          76.1849,
+          14.098,
+          76.2913,
+          14.2464
+        ]
+      },
+      {
+        "file": "oriented_structure_plane_25k_ngdr.shp",
+        "crs": "EPSG:4326",
+        "features": 6839,
+        "geom_type": {
+          "Point": 6839
+        },
+        "columns": [
+          "gid",
+          "__gid",
+          "input_cent",
+          "edition_no",
+          "toposheet_",
+          "point_type",
+          "generation",
+          "orientatio",
+          "direction_",
+          "strike",
+          "dip_direct",
+          "dip_amount",
+          "accession_",
+          "remarks",
+          "dis_x",
+          "dis_y",
+          "lbl_dip_am",
+          "geometry"
+        ],
+        "bounds": [
+          76.0067,
+          13.7509,
+          77.7484,
+          15.7493
+        ]
+      },
+      {
+        "file": "lithology_25k_ngdr.shp",
+        "crs": "EPSG:4326",
+        "features": 3599,
+        "geom_type": {
+          "Polygon": 3176,
+          "MultiPolygon": 423
+        },
+        "columns": [
+          "gid",
+          "input_cent",
+          "edition_no",
+          "toposheet_",
+          "geometry_i",
+          "stratigrap",
+          "supergroup",
+          "group_name",
+          "sub_group",
+          "formation",
+          "member",
+          "lithologic",
+          "standard_l",
+          "geochronol",
+          "g_age_erro",
+          "g_age_syst",
+          "g_material",
+          "texture",
+          "major_mine",
+          "accessory_",
+          "accession_",
+          "remarks",
+          "shape_leng",
+          "shape_area",
+          "geometry"
+        ],
+        "bounds": [
+          76.0015,
+          13.75,
+          77.75,
+          15.75
+        ]
+      },
+      {
+        "file": "lithology_25k_ngdr_20250224140917945.shp",
+        "crs": "EPSG:4326",
+        "features": 3909,
+        "geom_type": {
+          "Polygon": 3475,
+          "MultiPolygon": 434
+        },
+        "columns": [
+          "gid",
+          "input_cent",
+          "edition_no",
+          "toposheet_",
+          "geometry_i",
+          "stratigrap",
+          "supergroup",
+          "group_name",
+          "sub_group",
+          "formation",
+          "member",
+          "lithologic",
+          "standard_l",
+          "geochronol",
+          "g_age_erro",
+          "g_age_syst",
+          "g_material",
+          "texture",
+          "major_mine",
+          "accessory_",
+          "accession_",
+          "remarks",
+          "shape_leng",
+          "shape_area",
+          "geometry"
+        ],
+        "bounds": [
+          76.0015,
+          13.7486,
+          77.7515,
+          15.7502
+        ]
+      },
+      {
+        "file": "oriented_structure_line_25k_ngdr_20250224141143411.shp",
+        "crs": "EPSG:4326",
+        "features": 895,
+        "geom_type": {
+          "Point": 895
+        },
+        "columns": [
+          "gid",
+          "input_cent",
+          "edition_no",
+          "toposheet_",
+          "point_type",
+          "generation",
+          "direction_",
+          "plunge_dir",
+          "plunge_amo",
+          "accession_",
+          "remarks",
+          "dis_x",
+          "dis_y",
+          "lbl_plunge",
+          "geometry"
+        ],
+        "bounds": [
+          76.0091,
+          13.7911,
+          77.572,
+          14.8734
+        ]
+      },
+      {
+        "file": "mineralization_25k_ngdr_20250224141143411.shp",
+        "crs": "EPSG:4326",
+        "features": 17,
+        "geom_type": {
+          "Point": 17
+        },
+        "columns": [
+          "gid",
+          "input_cent",
+          "edition_no",
+          "toposheet_",
+          "commodity",
+          "descriptio",
+          "accession_",
+          "remarks",
+          "geometry"
+        ],
+        "bounds": [
+          76.4374,
+          14.0662,
+          77.6092,
+          15.2949
+        ]
+      }
+    ]
+  },
+  "geo_50k": {
+    "rasters": [],
+    "vectors": [
+      {
+        "file": "fault_gcs_ngdr_20250224141337303.shp",
+        "crs": "EPSG:4326",
+        "features": 393,
+        "geom_type": {
+          "LineString": 388,
+          "MultiLineString": 5
+        },
+        "columns": [
+          "gid",
+          "objectid",
+          "input_cent",
+          "toposheet_",
+          "edition_nu",
+          "geometry_i",
+          "fault_type",
+          "fault_name",
+          "shape_leng",
+          "geometry"
+        ],
+        "bounds": [
+          76.0032,
+          13.7486,
+          77.7515,
+          15.75
+        ]
+      },
+      {
+        "file": "Oriented_Structure_Plane.shp",
+        "crs": "EPSG:4326",
+        "features": 4739,
+        "geom_type": {
+          "Point": 4739
+        },
+        "columns": [
+          "OBJECTID",
+          "INPUT_CENT",
+          "TOPOSHEET_",
+          "EDITION_NU",
+          "GEOMETRY_I",
+          "POINT_TYPE",
+          "ORIENTATIO",
+          "DIRECTION",
+          "STRIKE",
+          "DIP_AMOUNT",
+          "DIP_DIRECT",
+          "geometry"
+        ],
+        "bounds": [
+          76.0008,
+          13.7515,
+          77.7485,
+          15.7499
+        ]
+      },
+      {
+        "file": "Fold.shp",
+        "crs": "EPSG:4326",
+        "features": 123,
+        "geom_type": {
+          "LineString": 123
+        },
+        "columns": [
+          "OBJECTID",
+          "INPUT_CENT",
+          "TOPOSHEET_",
+          "EDITION_NU",
+          "GEOMETRY_I",
+          "FOLD_TYPE",
+          "geometry"
+        ],
+        "bounds": [
+          76.0956,
+          13.9108,
+          77.6135,
+          15.7071
+        ]
+      },
+      {
+        "file": "mineralization_gcs_ngdr.shp",
+        "crs": "EPSG:4326",
+        "features": 233,
+        "geom_type": {
+          "Point": 233
+        },
+        "columns": [
+          "gid",
+          "input_cent",
+          "toposheet_",
+          "edition_nu",
+          "geometry_i",
+          "commodity",
+          "geometry"
+        ],
+        "bounds": [
+          76.1208,
+          13.7515,
+          77.6982,
+          15.6799
+        ]
+      },
+      {
+        "file": "mine_quarry_gcs_ngdr_20250224141337303.shp",
+        "crs": "EPSG:4326",
+        "features": 127,
+        "geom_type": {
+          "Point": 127
+        },
+        "columns": [
+          "gid",
+          "input_cent",
+          "toposheet_",
+          "edition_nu",
+          "geometry_i",
+          "status",
+          "geometry"
+        ],
+        "bounds": [
+          77.4042,
+          14.2603,
+          77.5428,
+          14.9083
+        ]
+      },
+      {
+        "file": "lithology_gcs_ngdr.shp",
+        "crs": "EPSG:4326",
+        "features": 7979,
+        "geom_type": {
+          "Polygon": 7958,
+          "MultiPolygon": 21
+        },
+        "columns": [
+          "gid",
+          "objectid",
+          "input_cent",
+          "toposheet_",
+          "edition_nu",
+          "geometry_i",
+          "age",
+          "supergroup",
+          "group_name",
+          "formation",
+          "member",
+          "lithologic",
+          "sub_group",
+          "new_geom_i",
+          "uid_notati",
+          "intrusive",
+          "script",
+          "notation",
+          "stratigrap",
+          "area",
+          "area1",
+          "notation12",
+          "shape_leng",
+          "shape_area",
+          "stratigr_1",
+          "sld_name",
+          "notation_l",
+          "geometry"
+        ],
+        "bounds": [
+          76.0015,
+          13.75,
+          77.75,
+          15.75
+        ]
+      }
+    ]
+  }
+}
