@@ -1,0 +1,12 @@
+Kruskal-Wallis Test Results
+==================================================
+H0: Distributions are identical across deposit types
+
+Potassium K (%)
+  H = 27.079,  p = 0.0000  (*** SIGNIFICANT)
+
+Uranium U (ppm)
+  H = 4.785,  p = 0.0914  (not significant)
+
+Thorium Th (ppm)
+  H = 3.125,  p = 0.2096  (not significant)

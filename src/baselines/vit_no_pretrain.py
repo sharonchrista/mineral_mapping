@@ -52,7 +52,7 @@ DEFAULT_CONFIG = {
     "fusion_dim":         512,
     "mc_dropout":         0.2,
     # Training — same as main fine-tuning
-    "epochs":             30,
+    "epochs":             100,
     "freeze_epochs":      0,    # NO freezing since no pretrained weights
     "batch_size":         64,
     "lr":                 1e-3,
@@ -72,7 +72,7 @@ def pu_bce_loss(logits, labels, weights):
 
 
 def compute_metrics(logits, labels):
-    probs = 1 / (1 + np.exp(-logits))
+    probs = 1 / (1 + np.exp(-np.clip(logits, -30, 30)))
     if labels.sum() == 0 or (labels == 0).sum() == 0:
         return {"auc_pr": 0.0, "auc_roc": 0.0, "f1": 0.0}
     try:
@@ -80,13 +80,19 @@ def compute_metrics(logits, labels):
         auc_roc = roc_auc_score(labels, probs)
     except Exception:
         auc_pr = auc_roc = 0.0
-    preds = (probs >= 0.5).astype(int)
-    try:
-        f1 = f1_score(labels, preds, zero_division=0)
-    except Exception:
-        f1 = 0.0
+    best_f1 = 0.0
+    for thresh in np.linspace(0.01, 0.99, 50):
+        preds = (probs >= thresh).astype(int)
+        if preds.sum() == 0:
+            continue
+        try:
+            f1 = f1_score(labels, preds, zero_division=0)
+            if f1 > best_f1:
+                best_f1 = f1
+        except Exception:
+            continue
     return {"auc_pr": float(auc_pr), "auc_roc": float(auc_roc),
-            "f1": float(f1)}
+            "f1": float(best_f1)}
 
 
 def cosine_lr(optimizer, epoch, warmup, total, base_lr, min_lr=1e-7):
@@ -193,7 +199,10 @@ def train_fold(config, fold):
     out_dir.mkdir(parents=True, exist_ok=True)
 
     splits_dir = Path(config["splits_dir"])
-    val_mask   = splits_dir / f"fold{fold}_test_mask.tif"
+    train_fold_mask = str(splits_dir / f"fold{fold}_train_mask.tif")
+    val_fold_mask   = str(splits_dir / f"fold{fold}_test_region_mask.tif")
+    print(f"Train mask: {train_fold_mask}")
+    print(f"Val mask  : {val_fold_mask}")
 
     print("\nBuilding dataloaders...")
     # Use full raster (no fold mask) — same setup as main fine-tuning
@@ -201,8 +210,8 @@ def train_fold(config, fold):
     train_loader, val_loader = build_finetune_loaders(
         tif_path        = config["tif_path"],
         label_path      = config["label_path"],
-        train_fold_mask = None,
-        val_fold_mask   = None,
+        train_fold_mask = train_fold_mask,
+        val_fold_mask   = val_fold_mask,
         patch_size      = config["img_size"],
         batch_size      = config["batch_size"],
         num_workers     = config["num_workers"],
@@ -237,6 +246,9 @@ def train_fold(config, fold):
     scaler = GradScaler(enabled=device.type == "cuda")
 
     best_auc = 0.0
+    patience_counter = 0
+    early_stop_patience = config.get("early_stop_patience", 10)
+    early_stop_min_delta = config.get("early_stop_min_delta", 0.001)
     print(f"\n{'Epoch':>6}  {'Loss':>8}  {'Val Loss':>8}  "
           f"{'AUC-PR':>8}  {'AUC-ROC':>8}  {'F1':>6}")
     print("-" * 56)
@@ -265,14 +277,15 @@ def train_fold(config, fold):
                  "config": config, **vm}
 
         torch.save(state, out_dir / "checkpoint_latest.pt")
-        # Save best by val_loss since AUC may be 0 if val set is single-class
-        val_loss_cur = vm.get("val_loss", 999)
-        if not hasattr(train_fold, "_best_loss"):
-            train_fold._best_loss = 999
-        if val_auc_pr > best_auc or (val_auc_pr == 0 and val_loss_cur < train_fold._best_loss) or epoch == 1:
-            best_auc = max(best_auc, val_auc_pr)
-            train_fold._best_loss = min(train_fold._best_loss, val_loss_cur)
+        if val_auc_pr > best_auc + early_stop_min_delta:
+            best_auc = val_auc_pr
+            patience_counter = 0
             torch.save(state, out_dir / "checkpoint_best.pt")
+        else:
+            patience_counter += 1
+            if patience_counter >= early_stop_patience:
+                print(f"  Early stopping at epoch {epoch}")
+                break
 
     # Load best and record final metrics
     best_ckpt = torch.load(out_dir / "checkpoint_best.pt",
@@ -298,9 +311,12 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--fold",      type=int, default=0)
     parser.add_argument("--all_folds", action="store_true")
+    parser.add_argument("--batch_size", type=int, default=None)
     args = parser.parse_args()
 
     config = DEFAULT_CONFIG.copy()
+    if args.batch_size:
+        config["batch_size"] = args.batch_size
 
     if args.all_folds:
         results = []

@@ -1,33 +1,111 @@
-# Large data files
-data/
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environment ───────────────────────────────────────
+venv/
+env/
+.env
+.venv
+
+# ── Jupyter ───────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Data files (too large for git) ───────────────────────────
+data/raw/
+data/external/
+data/processed/stacked/
+data/processed/aeromagnetic/
+data/processed/aligned/
+data/processed/aligned_multiband/
+data/processed/raster_50m/
+data/processed/derived_features/
+data/processed/features/
+data/processed/rasterized/
+data/processed/categorical/
 *.tif
 *.tiff
-*.h5
-*.hdf5
+*.gdb
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.fbn
+*.fbx
+*.ain
+*.aih
+*.atx
+*.ixs
+*.mxs
+*.ovr
+*.aux.xml
+*.grd
+*.grd.gi
+*.grd.xml
+*.XYZ
+*.zip
+*.gz
+*.tar
 
-# Model checkpoints (large)
+# ── Model checkpoints (large binary files) ───────────────────
 experiments/pretrain_mim/
-experiments/finetune/
-experiments/ablation_studies/A1_no_cross_attn/checkpoint*
-experiments/ablation_studies/A2_no_cca/checkpoint*
-experiments/ablation_studies/A3_geo_only/checkpoint*
-experiments/ablation_studies/A4_aero_only/checkpoint*
+experiments/pretrain_mim_fold_aware/
+experiments/finetune_unstable_unfreeze_backup/
+experiments/finetune/*/checkpoint_epoch*.pt
+experiments/finetune/*/checkpoint_latest.pt
+experiments/ablation_studies_v2/*/
+results/prospectivity_maps/
+results/prospectivity_maps_original_leaked/
+results/baselines/*/fold*/
 
-# Keep metrics JSON files
-!experiments/ablation_studies/*/metrics.json
-!experiments/ablation_studies/summary.json
+# Keep best checkpoints and results JSON
+!experiments/finetune/*/checkpoint_best.pt
+!experiments/finetune/*/results.json
+!experiments/ablation_studies_v2/summary_fold*.json
 
-# Python
-__pycache__/
-*.pyc
-*.pyo
-venv/
-*.egg-info/
-
-# Logs
+# ── Logs ─────────────────────────────────────────────────────
+logs/
 *.log
 nohup.out
 
-# Results - keep figures, exclude large tifs
-results/prospectivity_maps/
-results/baselines/
+# ── IDE and OS ────────────────────────────────────────────────
+.vscode/
+.idea/
+*.DS_Store
+.flir
+Thumbs.db
+*~
+
+# ── LaTeX ─────────────────────────────────────────────────────
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.out
+*.toc
+*.lot
+*.lof
+
+# ── Weights and biases ────────────────────────────────────────
+wandb/
+
+# ── Temporary files ───────────────────────────────────────────
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp

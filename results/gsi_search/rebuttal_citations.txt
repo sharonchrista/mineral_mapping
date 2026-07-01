@@ -1,0 +1,45 @@
+POTENTIAL GSI CITATIONS FOR REBUTTAL
+============================================================
+
+Top reports with deposit co-occurrence evidence:
+
+1. 12340.pdf
+   Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57A10/Report Geology/SRO-12340/12340.pdf
+   Terms found: ['associated with gold']
+
+2. 12340.pdf
+   Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57A14/Report Geology/SRO-12340/12340.pdf
+   Terms found: ['associated with gold']
+
+3. AMSE-6843.pdf
+   Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B02/Report Geology/AMSE_6843/AMSE-6843.pdf
+   Terms found: ['associated with gold']
+
+4. AMSE_6843_1984_1985_REPORT_1.pdf
+   Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B02/Report Geology/AMSE_6843/AMSE_6843_1984_1985_REPORT_1.pdf
+   Terms found: ['associated with gold']
+
+5. AMSE-6843.pdf
+   Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B07/Report Geology/AMSE-6843/AMSE-6843.pdf
+   Terms found: ['associated with gold']
+
+6. AMSE_6843_1984_1985_REPORT_1.pdf
+   Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B07/Report Geology/AMSE-6843/AMSE_6843_1984_1985_REPORT_1.pdf
+   Terms found: ['associated with gold']
+
+7. AMSE-6843.pdf
+   Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B11/Report Geology/AMSE-6843/AMSE-6843.pdf
+   Terms found: ['associated with gold']
+
+8. AMSE_6843_1984_1985_REPORT_1.pdf
+   Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B11/Report Geology/AMSE-6843/AMSE_6843_1984_1985_REPORT_1.pdf
+   Terms found: ['associated with gold']
+
+9. SRO_11836_1991_1992_REPORT_1.pdf
+   Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57F05/Non Georeference & other/SRO-11836/SRO_11836_1991_1992_REPORT_1.pdf
+   Terms found: ['associated with gold']
+
+10. Final_Report_Ajjanahalli Block-I WM.pdf
+   Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57C09/Report Exploration/SRO-16038/Final_Report_Ajjanahalli Block-I WM.pdf
+   Terms found: ['associated with gold']
+

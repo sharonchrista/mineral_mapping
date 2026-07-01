@@ -1,0 +1,984 @@
+GSI TECHNICAL REPORT SEARCH RESULTS
+============================================================
+Total PDFs searched: 1092
+PDFs with hits: 919
+
+PURPOSE: Support rebuttal for Reviewer 1, Comment 3
+(Geological justification for mixed deposit types)
+
+
+============================================================
+RANK 1 | Score: 32 | AMSE-7829.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B07/Report Geology/AMSE-7829/AMSE-7829.pdf
+Categories: ['greenstone_framework', 'structural_control', 'deposit_footprint', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...cks namely western dharwar carton   (wdc) and eastern dharwar carton (edc) (swaminath and ramakrishnan, 1981; drury et.al., 1987;   chadwick et. al., 1997). the wdc is comprised of sediment-dominated greenstone belt (swaminath   and  ramakrishnan,  1981)  where  as  the  edc  is  typified  by  volca...
+
+  >>> ...n  of  the  closepet  granite.  the  wdc  is   represented by basement gneisses, older supracrustals (sargur complex), the dhanvar supergroup of   rocks (younger supracrustals represented by granite-greenstone belt), intrusive granites and mafic dyke   swarms. the major part of the craton is occupi...
+
+  Term: 'schist belt'
+  >>> ...ysiography and drainage   climate and vegetation   background information   objective of present work   quantum of work done   acknowledgement   geology   regional geolgy   geology of the chitradurga schist belt   geology of the study area   petrogpaphy of carbonate and related lithounits   geochemi...
+
+  >>> ...s zone, often referred as chitradurga central   sulphide zone (radhakrishna, 1996) or “shear corridor” (khan, 1995), occurs along the western part of   shear margin in the eastern part of chitradurga schist belt and represent eastern arm of chitradurga   major   fold.  the  main   rock   types  expo...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...1905) who attributed it to submarine hydrothermal action. on the   other  hand,  the  recent  workers  speculate  it  to  be  the  result  of  trapping  of  mantle  derived  co2    by   transcrustal shear zones that could have served as conduits for trapping, mineralizing or scavenging   solution an...
+
+  >>> ...long nw-se   trending mylonite zone on the eastern margin of the chitradurga schist belt of the wdc (swami nath   and rainakrishnan, 1981). this boundary, often referred as chitradurga eastern margin shear zone, is   characterized by a drop in crustal thickness from 42-51 km for the wdc to 34-39 km ...
+
+  Term: 'hydrothermal'
+  >>> ...rogenic lode gold   deposits around g. r. halli mine area is also ankerite. this ankerite later remobilized during subsequent   deformational events. the ree profiles of the ankerite also support its hydrothermal nature. ankerite   bearing d2 deformational auriferous quartz veins in the area are the...
+
+  >>> ...ent   deformational events. the ree profiles of the ankerite also support its hydrothermal nature. ankerite   bearing d2 deformational auriferous quartz veins in the area are the result of epigenetic hydrothermal   alteration. the hydrothermal fluids are probably resulted due to metamorphic devolati...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: 'strike length'
+  >>> ...ided the area into   southern, central and northern blocks. sheshadri and mailkarjuna (1979) carried out detailed mapping   of 0.2 sq. km area and identified auriferous lodes 1 & 2 over 260m and 332m strike lengths respectively   in  the  central  block  showing  inconsistent  gold  values.  rajendr...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'proterozoic'
+  >>> ...harwar craton forms an important component of the precambrian shield in south india. it is   comprised  of  archaean  gneiss-supracrustals  and  granite-greenstone  belts,  mafic  dyke  swarms  and   proterozoic cover sediments. the craton is divided in two sub-blocks namely western dharwar carton  ...
+
+  >>> ...been   thrust and later amalgamated during the 2.8-2.5 orogeny in this part of the crust (chadwick at al., 1997,   2000).   a. western dhanvar carton (wdc): the wdc is bounded in the north by younger proterozoic   basins and deccan traps, to the west by arabian sea, to the south by the charnockite-g...
+
+
+============================================================
+RANK 2 | Score: 30 | AMSE-7777.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B04/Non Georeference & other/AMSE-7777/AMSE-7777.pdf
+Categories: ['greenstone_framework', 'structural_control', 'deposit_footprint', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...h.m. ramachandra   i. introduction:   the dharwar craton (fig. 1) forms an important component of the precambrian shield in   south india. it is comprised of archaean gneiss-supracrustals and granite-greenstone belts, mafic   dyke  swarms  and  proterozoic  cover  sediments.  it  is  believed  that ...
+
+  Term: 'schist belt'
+  >>> ...government of india   geological survey of india   airborne mineral surveys and exploration wing   petrographic and geochemical studies of granitoids in the eastern margin of the   chitradurga schist belt and the terrain junction of the western and eastern   dharwar cratons   (item rp/ams/hq/2004/00...
+
+  >>> ...seasons 2004-05 and 2005-06)   h.m. ramachandra   director   bangalore   january, 2010                   petrographic and geochemical studies of granitoids in the eastern margin of the   chitradurga schist belt and the terrain junction of the western and eastern   dharwar cratons   (item rp/ams/hq/...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...nt of the granite   was along shear planes related to d1 deformation through dilatation-pumping mechanism, being   emplaced as small sheets at shallow levels of the crust.  the presence of d1 ductile shear zones,   almost restricted to granite-basalt contact and subplutonic and subvolcanic varieties...
+
+  >>> ...rieties of the granite   supports this ascent and emplacement mechanism for the medikeripura granite.   the honnamaradi and jn kote granites are marginal to the nw-se trending crustal scale   ductile shear zone on the eastern margin of the chitradurga schist belt. they show compositional   different...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: '500 m'
+  >>> ...n  overlies   and partly separates the dharwar craton from the basement gneisses, the nellore schist belt and   the egmb to further east.  the dharwar craton is in tectonic contact with the 2.5 ga to 500 ma   southern granulite terrain (sgt) in the south.  the craton is under cover of the 1.0 ga mes...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'proterozoic'
+  >>> ...rwar craton (fig. 1) forms an important component of the precambrian shield in   south india. it is comprised of archaean gneiss-supracrustals and granite-greenstone belts, mafic   dyke  swarms  and  proterozoic  cover  sediments.  it  is  believed  that  the  craton  comprises  two   distinct  terr...
+
+  >>> ...ed       summaries of work carried out for field seasons 2004-05 and 2005-06 have been published in gsi   records (ramachandra, 2006, 2007).       ii. geology of the dharwar craton:   the  archaean-proterozoic  dharwar  craton  (fig.1;  also  see  radhakrishna  and  naqvi,   1986) is an important ...
+
+
+============================================================
+RANK 3 | Score: 30 | AMSE-7777.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B12/Report Geology/AMSE-7777/AMSE-7777.pdf
+Categories: ['greenstone_framework', 'structural_control', 'deposit_footprint', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...h.m. ramachandra   i. introduction:   the dharwar craton (fig. 1) forms an important component of the precambrian shield in   south india. it is comprised of archaean gneiss-supracrustals and granite-greenstone belts, mafic   dyke  swarms  and  proterozoic  cover  sediments.  it  is  believed  that ...
+
+  Term: 'schist belt'
+  >>> ...government of india   geological survey of india   airborne mineral surveys and exploration wing   petrographic and geochemical studies of granitoids in the eastern margin of the   chitradurga schist belt and the terrain junction of the western and eastern   dharwar cratons   (item rp/ams/hq/2004/00...
+
+  >>> ...seasons 2004-05 and 2005-06)   h.m. ramachandra   director   bangalore   january, 2010                   petrographic and geochemical studies of granitoids in the eastern margin of the   chitradurga schist belt and the terrain junction of the western and eastern   dharwar cratons   (item rp/ams/hq/...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...nt of the granite   was along shear planes related to d1 deformation through dilatation-pumping mechanism, being   emplaced as small sheets at shallow levels of the crust.  the presence of d1 ductile shear zones,   almost restricted to granite-basalt contact and subplutonic and subvolcanic varieties...
+
+  >>> ...rieties of the granite   supports this ascent and emplacement mechanism for the medikeripura granite.   the honnamaradi and jn kote granites are marginal to the nw-se trending crustal scale   ductile shear zone on the eastern margin of the chitradurga schist belt. they show compositional   different...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: '500 m'
+  >>> ...n  overlies   and partly separates the dharwar craton from the basement gneisses, the nellore schist belt and   the egmb to further east.  the dharwar craton is in tectonic contact with the 2.5 ga to 500 ma   southern granulite terrain (sgt) in the south.  the craton is under cover of the 1.0 ga mes...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'proterozoic'
+  >>> ...rwar craton (fig. 1) forms an important component of the precambrian shield in   south india. it is comprised of archaean gneiss-supracrustals and granite-greenstone belts, mafic   dyke  swarms  and  proterozoic  cover  sediments.  it  is  believed  that  the  craton  comprises  two   distinct  terr...
+
+  >>> ...ed       summaries of work carried out for field seasons 2004-05 and 2005-06 have been published in gsi   records (ramachandra, 2006, 2007).       ii. geology of the dharwar craton:   the  archaean-proterozoic  dharwar  craton  (fig.1;  also  see  radhakrishna  and  naqvi,   1986) is an important ...
+
+
+============================================================
+RANK 4 | Score: 30 | AMSE-7777.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B16/Non Georeference & other/AMSE-7777/AMSE-7777.pdf
+Categories: ['greenstone_framework', 'structural_control', 'deposit_footprint', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...h.m. ramachandra   i. introduction:   the dharwar craton (fig. 1) forms an important component of the precambrian shield in   south india. it is comprised of archaean gneiss-supracrustals and granite-greenstone belts, mafic   dyke  swarms  and  proterozoic  cover  sediments.  it  is  believed  that ...
+
+  Term: 'schist belt'
+  >>> ...government of india   geological survey of india   airborne mineral surveys and exploration wing   petrographic and geochemical studies of granitoids in the eastern margin of the   chitradurga schist belt and the terrain junction of the western and eastern   dharwar cratons   (item rp/ams/hq/2004/00...
+
+  >>> ...seasons 2004-05 and 2005-06)   h.m. ramachandra   director   bangalore   january, 2010                   petrographic and geochemical studies of granitoids in the eastern margin of the   chitradurga schist belt and the terrain junction of the western and eastern   dharwar cratons   (item rp/ams/hq/...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...nt of the granite   was along shear planes related to d1 deformation through dilatation-pumping mechanism, being   emplaced as small sheets at shallow levels of the crust.  the presence of d1 ductile shear zones,   almost restricted to granite-basalt contact and subplutonic and subvolcanic varieties...
+
+  >>> ...rieties of the granite   supports this ascent and emplacement mechanism for the medikeripura granite.   the honnamaradi and jn kote granites are marginal to the nw-se trending crustal scale   ductile shear zone on the eastern margin of the chitradurga schist belt. they show compositional   different...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: '500 m'
+  >>> ...n  overlies   and partly separates the dharwar craton from the basement gneisses, the nellore schist belt and   the egmb to further east.  the dharwar craton is in tectonic contact with the 2.5 ga to 500 ma   southern granulite terrain (sgt) in the south.  the craton is under cover of the 1.0 ga mes...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'proterozoic'
+  >>> ...rwar craton (fig. 1) forms an important component of the precambrian shield in   south india. it is comprised of archaean gneiss-supracrustals and granite-greenstone belts, mafic   dyke  swarms  and  proterozoic  cover  sediments.  it  is  believed  that  the  craton  comprises  two   distinct  terr...
+
+  >>> ...ed       summaries of work carried out for field seasons 2004-05 and 2005-06 have been published in gsi   records (ramachandra, 2006, 2007).       ii. geology of the dharwar craton:   the  archaean-proterozoic  dharwar  craton  (fig.1;  also  see  radhakrishna  and  naqvi,   1986) is an important ...
+
+
+============================================================
+RANK 5 | Score: 30 | AMSE-7777.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B11/Report Geology/AMSE-7777/AMSE-7777.pdf
+Categories: ['greenstone_framework', 'structural_control', 'deposit_footprint', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...h.m. ramachandra   i. introduction:   the dharwar craton (fig. 1) forms an important component of the precambrian shield in   south india. it is comprised of archaean gneiss-supracrustals and granite-greenstone belts, mafic   dyke  swarms  and  proterozoic  cover  sediments.  it  is  believed  that ...
+
+  Term: 'schist belt'
+  >>> ...government of india   geological survey of india   airborne mineral surveys and exploration wing   petrographic and geochemical studies of granitoids in the eastern margin of the   chitradurga schist belt and the terrain junction of the western and eastern   dharwar cratons   (item rp/ams/hq/2004/00...
+
+  >>> ...seasons 2004-05 and 2005-06)   h.m. ramachandra   director   bangalore   january, 2010                   petrographic and geochemical studies of granitoids in the eastern margin of the   chitradurga schist belt and the terrain junction of the western and eastern   dharwar cratons   (item rp/ams/hq/...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...nt of the granite   was along shear planes related to d1 deformation through dilatation-pumping mechanism, being   emplaced as small sheets at shallow levels of the crust.  the presence of d1 ductile shear zones,   almost restricted to granite-basalt contact and subplutonic and subvolcanic varieties...
+
+  >>> ...rieties of the granite   supports this ascent and emplacement mechanism for the medikeripura granite.   the honnamaradi and jn kote granites are marginal to the nw-se trending crustal scale   ductile shear zone on the eastern margin of the chitradurga schist belt. they show compositional   different...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: '500 m'
+  >>> ...n  overlies   and partly separates the dharwar craton from the basement gneisses, the nellore schist belt and   the egmb to further east.  the dharwar craton is in tectonic contact with the 2.5 ga to 500 ma   southern granulite terrain (sgt) in the south.  the craton is under cover of the 1.0 ga mes...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'proterozoic'
+  >>> ...rwar craton (fig. 1) forms an important component of the precambrian shield in   south india. it is comprised of archaean gneiss-supracrustals and granite-greenstone belts, mafic   dyke  swarms  and  proterozoic  cover  sediments.  it  is  believed  that  the  craton  comprises  two   distinct  terr...
+
+  >>> ...ed       summaries of work carried out for field seasons 2004-05 and 2005-06 have been published in gsi   records (ramachandra, 2006, 2007).       ii. geology of the dharwar craton:   the  archaean-proterozoic  dharwar  craton  (fig.1;  also  see  radhakrishna  and  naqvi,   1986) is an important ...
+
+
+============================================================
+RANK 6 | Score: 30 | AMSE-7777.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B15/Non Georeference & other/AMSE-7777/AMSE-7777.pdf
+Categories: ['greenstone_framework', 'structural_control', 'deposit_footprint', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...h.m. ramachandra   i. introduction:   the dharwar craton (fig. 1) forms an important component of the precambrian shield in   south india. it is comprised of archaean gneiss-supracrustals and granite-greenstone belts, mafic   dyke  swarms  and  proterozoic  cover  sediments.  it  is  believed  that ...
+
+  Term: 'schist belt'
+  >>> ...government of india   geological survey of india   airborne mineral surveys and exploration wing   petrographic and geochemical studies of granitoids in the eastern margin of the   chitradurga schist belt and the terrain junction of the western and eastern   dharwar cratons   (item rp/ams/hq/2004/00...
+
+  >>> ...seasons 2004-05 and 2005-06)   h.m. ramachandra   director   bangalore   january, 2010                   petrographic and geochemical studies of granitoids in the eastern margin of the   chitradurga schist belt and the terrain junction of the western and eastern   dharwar cratons   (item rp/ams/hq/...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...nt of the granite   was along shear planes related to d1 deformation through dilatation-pumping mechanism, being   emplaced as small sheets at shallow levels of the crust.  the presence of d1 ductile shear zones,   almost restricted to granite-basalt contact and subplutonic and subvolcanic varieties...
+
+  >>> ...rieties of the granite   supports this ascent and emplacement mechanism for the medikeripura granite.   the honnamaradi and jn kote granites are marginal to the nw-se trending crustal scale   ductile shear zone on the eastern margin of the chitradurga schist belt. they show compositional   different...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: '500 m'
+  >>> ...n  overlies   and partly separates the dharwar craton from the basement gneisses, the nellore schist belt and   the egmb to further east.  the dharwar craton is in tectonic contact with the 2.5 ga to 500 ma   southern granulite terrain (sgt) in the south.  the craton is under cover of the 1.0 ga mes...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'proterozoic'
+  >>> ...rwar craton (fig. 1) forms an important component of the precambrian shield in   south india. it is comprised of archaean gneiss-supracrustals and granite-greenstone belts, mafic   dyke  swarms  and  proterozoic  cover  sediments.  it  is  believed  that  the  craton  comprises  two   distinct  terr...
+
+  >>> ...ed       summaries of work carried out for field seasons 2004-05 and 2005-06 have been published in gsi   records (ramachandra, 2006, 2007).       ii. geology of the dharwar craton:   the  archaean-proterozoic  dharwar  craton  (fig.1;  also  see  radhakrishna  and  naqvi,   1986) is an important ...
+
+
+============================================================
+RANK 7 | Score: 30 | AMSE-7777.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B08/Report Geology/AMSE-7777/AMSE-7777.pdf
+Categories: ['greenstone_framework', 'structural_control', 'deposit_footprint', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...h.m. ramachandra   i. introduction:   the dharwar craton (fig. 1) forms an important component of the precambrian shield in   south india. it is comprised of archaean gneiss-supracrustals and granite-greenstone belts, mafic   dyke  swarms  and  proterozoic  cover  sediments.  it  is  believed  that ...
+
+  Term: 'schist belt'
+  >>> ...government of india   geological survey of india   airborne mineral surveys and exploration wing   petrographic and geochemical studies of granitoids in the eastern margin of the   chitradurga schist belt and the terrain junction of the western and eastern   dharwar cratons   (item rp/ams/hq/2004/00...
+
+  >>> ...seasons 2004-05 and 2005-06)   h.m. ramachandra   director   bangalore   january, 2010                   petrographic and geochemical studies of granitoids in the eastern margin of the   chitradurga schist belt and the terrain junction of the western and eastern   dharwar cratons   (item rp/ams/hq/...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...nt of the granite   was along shear planes related to d1 deformation through dilatation-pumping mechanism, being   emplaced as small sheets at shallow levels of the crust.  the presence of d1 ductile shear zones,   almost restricted to granite-basalt contact and subplutonic and subvolcanic varieties...
+
+  >>> ...rieties of the granite   supports this ascent and emplacement mechanism for the medikeripura granite.   the honnamaradi and jn kote granites are marginal to the nw-se trending crustal scale   ductile shear zone on the eastern margin of the chitradurga schist belt. they show compositional   different...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: '500 m'
+  >>> ...n  overlies   and partly separates the dharwar craton from the basement gneisses, the nellore schist belt and   the egmb to further east.  the dharwar craton is in tectonic contact with the 2.5 ga to 500 ma   southern granulite terrain (sgt) in the south.  the craton is under cover of the 1.0 ga mes...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'proterozoic'
+  >>> ...rwar craton (fig. 1) forms an important component of the precambrian shield in   south india. it is comprised of archaean gneiss-supracrustals and granite-greenstone belts, mafic   dyke  swarms  and  proterozoic  cover  sediments.  it  is  believed  that  the  craton  comprises  two   distinct  terr...
+
+  >>> ...ed       summaries of work carried out for field seasons 2004-05 and 2005-06 have been published in gsi   records (ramachandra, 2006, 2007).       ii. geology of the dharwar craton:   the  archaean-proterozoic  dharwar  craton  (fig.1;  also  see  radhakrishna  and  naqvi,   1986) is an important ...
+
+
+============================================================
+RANK 8 | Score: 29 | AMSE_7777_2004_2006_REPORT_1.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B04/Non Georeference & other/AMSE-7777/AMSE_7777_2004_2006_REPORT_1.pdf
+Categories: ['greenstone_framework', 'structural_control', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...dharwar craton (wdc):         the  wdc  is  characterized  by  basement  gneisses,  older  supracrustals  (sargur complex), the dharwar supergroup of rocks (younger supracrustals representing granite greenstone belts), intrusive granites and mafic dyke swarms.       the basement gneisses are constit...
+
+  Term: 'schist belt'
+  >>> ...s/hq/2004/004  government of india geological survey of india airborne mineral surveys and exploration wing  petrographic and geochemical studies of granitoids in the easter margin of the chitradurga schist belt and the terrain junction of the  western and eastern dharwar cratons                    ...
+
+  >>> ...no. rp/ams/hq/2004/004  field seasons 2004-05 and 2005-06  by  h.m. ramachandra  bangalore  january, 2010  petrographic and geochemical studies of granitoids in the eastern margin of the chitradurga schist belt and the terrain junction of the western and eastern dharwar cratons  code no. rp/ams/hq/...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...rieties of the granite supports this ascent and emplacement mechanism for the medikeripura granite.       the honnamaradi and jn kote granites are marginal to the nw-se trending crustal scale ductile shear zone on the eastern margin of the chitradurga schist belt. they show compositional  differenti...
+
+  >>> ...e grouped  all  the  younger  granitoids  in  the  edc  and  those  on  the  eastern  margin  of  the chitradurga  schist  belt  in  their  conceptual  ‘dharwar  batholith’.  they  believe  that  the shear zone on the eastern margin of the chitradurga schist belt may represent the contact between th...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'proterozoic'
+  >>> ...r craton (fig. 1) forms an important component of the precambrian shield in  south  india.  it  is  comprised  of  archaean  gneiss-supracrustals  and  granite-greenstone belts, mafic dyke swarms and proterozoic cover sediments. it is believed that the craton comprises two distinct terranes includin...
+
+  >>> ...summaries  of  work  carried  out  for  field  seasons  2004-05  and  2005-06  have been published in gsi records (ramachandra, 2006, 2007).  5  ii. geology of the dharwar craton       the archaean-proterozoic dharwar craton (fig.1; also see radhakrishna and naqvi, 1986) is an important component o...
+
+
+============================================================
+RANK 9 | Score: 29 | AMSE_7777_2004_2006_REPORT_1.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B12/Report Geology/AMSE-7777/AMSE_7777_2004_2006_REPORT_1.pdf
+Categories: ['greenstone_framework', 'structural_control', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...dharwar craton (wdc):         the  wdc  is  characterized  by  basement  gneisses,  older  supracrustals  (sargur complex), the dharwar supergroup of rocks (younger supracrustals representing granite greenstone belts), intrusive granites and mafic dyke swarms.       the basement gneisses are constit...
+
+  Term: 'schist belt'
+  >>> ...s/hq/2004/004  government of india geological survey of india airborne mineral surveys and exploration wing  petrographic and geochemical studies of granitoids in the easter margin of the chitradurga schist belt and the terrain junction of the  western and eastern dharwar cratons                    ...
+
+  >>> ...no. rp/ams/hq/2004/004  field seasons 2004-05 and 2005-06  by  h.m. ramachandra  bangalore  january, 2010  petrographic and geochemical studies of granitoids in the eastern margin of the chitradurga schist belt and the terrain junction of the western and eastern dharwar cratons  code no. rp/ams/hq/...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...rieties of the granite supports this ascent and emplacement mechanism for the medikeripura granite.       the honnamaradi and jn kote granites are marginal to the nw-se trending crustal scale ductile shear zone on the eastern margin of the chitradurga schist belt. they show compositional  differenti...
+
+  >>> ...e grouped  all  the  younger  granitoids  in  the  edc  and  those  on  the  eastern  margin  of  the chitradurga  schist  belt  in  their  conceptual  ‘dharwar  batholith’.  they  believe  that  the shear zone on the eastern margin of the chitradurga schist belt may represent the contact between th...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'proterozoic'
+  >>> ...r craton (fig. 1) forms an important component of the precambrian shield in  south  india.  it  is  comprised  of  archaean  gneiss-supracrustals  and  granite-greenstone belts, mafic dyke swarms and proterozoic cover sediments. it is believed that the craton comprises two distinct terranes includin...
+
+  >>> ...summaries  of  work  carried  out  for  field  seasons  2004-05  and  2005-06  have been published in gsi records (ramachandra, 2006, 2007).  5  ii. geology of the dharwar craton       the archaean-proterozoic dharwar craton (fig.1; also see radhakrishna and naqvi, 1986) is an important component o...
+
+
+============================================================
+RANK 10 | Score: 29 | AMSE_7777_2004_2006_REPORT_1.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B16/Non Georeference & other/AMSE-7777/AMSE_7777_2004_2006_REPORT_1.pdf
+Categories: ['greenstone_framework', 'structural_control', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...dharwar craton (wdc):         the  wdc  is  characterized  by  basement  gneisses,  older  supracrustals  (sargur complex), the dharwar supergroup of rocks (younger supracrustals representing granite greenstone belts), intrusive granites and mafic dyke swarms.       the basement gneisses are constit...
+
+  Term: 'schist belt'
+  >>> ...s/hq/2004/004  government of india geological survey of india airborne mineral surveys and exploration wing  petrographic and geochemical studies of granitoids in the easter margin of the chitradurga schist belt and the terrain junction of the  western and eastern dharwar cratons                    ...
+
+  >>> ...no. rp/ams/hq/2004/004  field seasons 2004-05 and 2005-06  by  h.m. ramachandra  bangalore  january, 2010  petrographic and geochemical studies of granitoids in the eastern margin of the chitradurga schist belt and the terrain junction of the western and eastern dharwar cratons  code no. rp/ams/hq/...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...rieties of the granite supports this ascent and emplacement mechanism for the medikeripura granite.       the honnamaradi and jn kote granites are marginal to the nw-se trending crustal scale ductile shear zone on the eastern margin of the chitradurga schist belt. they show compositional  differenti...
+
+  >>> ...e grouped  all  the  younger  granitoids  in  the  edc  and  those  on  the  eastern  margin  of  the chitradurga  schist  belt  in  their  conceptual  ‘dharwar  batholith’.  they  believe  that  the shear zone on the eastern margin of the chitradurga schist belt may represent the contact between th...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'proterozoic'
+  >>> ...r craton (fig. 1) forms an important component of the precambrian shield in  south  india.  it  is  comprised  of  archaean  gneiss-supracrustals  and  granite-greenstone belts, mafic dyke swarms and proterozoic cover sediments. it is believed that the craton comprises two distinct terranes includin...
+
+  >>> ...summaries  of  work  carried  out  for  field  seasons  2004-05  and  2005-06  have been published in gsi records (ramachandra, 2006, 2007).  5  ii. geology of the dharwar craton       the archaean-proterozoic dharwar craton (fig.1; also see radhakrishna and naqvi, 1986) is an important component o...
+
+
+============================================================
+RANK 11 | Score: 29 | AMSE_7777_2004_2006_REPORT_1.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B11/Report Geology/AMSE-7777/AMSE_7777_2004_2006_REPORT_1.pdf
+Categories: ['greenstone_framework', 'structural_control', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...dharwar craton (wdc):         the  wdc  is  characterized  by  basement  gneisses,  older  supracrustals  (sargur complex), the dharwar supergroup of rocks (younger supracrustals representing granite greenstone belts), intrusive granites and mafic dyke swarms.       the basement gneisses are constit...
+
+  Term: 'schist belt'
+  >>> ...s/hq/2004/004  government of india geological survey of india airborne mineral surveys and exploration wing  petrographic and geochemical studies of granitoids in the easter margin of the chitradurga schist belt and the terrain junction of the  western and eastern dharwar cratons                    ...
+
+  >>> ...no. rp/ams/hq/2004/004  field seasons 2004-05 and 2005-06  by  h.m. ramachandra  bangalore  january, 2010  petrographic and geochemical studies of granitoids in the eastern margin of the chitradurga schist belt and the terrain junction of the western and eastern dharwar cratons  code no. rp/ams/hq/...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...rieties of the granite supports this ascent and emplacement mechanism for the medikeripura granite.       the honnamaradi and jn kote granites are marginal to the nw-se trending crustal scale ductile shear zone on the eastern margin of the chitradurga schist belt. they show compositional  differenti...
+
+  >>> ...e grouped  all  the  younger  granitoids  in  the  edc  and  those  on  the  eastern  margin  of  the chitradurga  schist  belt  in  their  conceptual  ‘dharwar  batholith’.  they  believe  that  the shear zone on the eastern margin of the chitradurga schist belt may represent the contact between th...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'proterozoic'
+  >>> ...r craton (fig. 1) forms an important component of the precambrian shield in  south  india.  it  is  comprised  of  archaean  gneiss-supracrustals  and  granite-greenstone belts, mafic dyke swarms and proterozoic cover sediments. it is believed that the craton comprises two distinct terranes includin...
+
+  >>> ...summaries  of  work  carried  out  for  field  seasons  2004-05  and  2005-06  have been published in gsi records (ramachandra, 2006, 2007).  5  ii. geology of the dharwar craton       the archaean-proterozoic dharwar craton (fig.1; also see radhakrishna and naqvi, 1986) is an important component o...
+
+
+============================================================
+RANK 12 | Score: 29 | Copy of AMSE_7777_2004_2006_REPORT_1.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B11/Report Geology/AMSE-7777/Copy of AMSE_7777_2004_2006_REPORT_1.pdf
+Categories: ['greenstone_framework', 'structural_control', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...dharwar craton (wdc):         the  wdc  is  characterized  by  basement  gneisses,  older  supracrustals  (sargur complex), the dharwar supergroup of rocks (younger supracrustals representing granite greenstone belts), intrusive granites and mafic dyke swarms.       the basement gneisses are constit...
+
+  Term: 'schist belt'
+  >>> ...s/hq/2004/004  government of india geological survey of india airborne mineral surveys and exploration wing  petrographic and geochemical studies of granitoids in the easter margin of the chitradurga schist belt and the terrain junction of the  western and eastern dharwar cratons                    ...
+
+  >>> ...no. rp/ams/hq/2004/004  field seasons 2004-05 and 2005-06  by  h.m. ramachandra  bangalore  january, 2010  petrographic and geochemical studies of granitoids in the eastern margin of the chitradurga schist belt and the terrain junction of the western and eastern dharwar cratons  code no. rp/ams/hq/...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...rieties of the granite supports this ascent and emplacement mechanism for the medikeripura granite.       the honnamaradi and jn kote granites are marginal to the nw-se trending crustal scale ductile shear zone on the eastern margin of the chitradurga schist belt. they show compositional  differenti...
+
+  >>> ...e grouped  all  the  younger  granitoids  in  the  edc  and  those  on  the  eastern  margin  of  the chitradurga  schist  belt  in  their  conceptual  ‘dharwar  batholith’.  they  believe  that  the shear zone on the eastern margin of the chitradurga schist belt may represent the contact between th...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'proterozoic'
+  >>> ...r craton (fig. 1) forms an important component of the precambrian shield in  south  india.  it  is  comprised  of  archaean  gneiss-supracrustals  and  granite-greenstone belts, mafic dyke swarms and proterozoic cover sediments. it is believed that the craton comprises two distinct terranes includin...
+
+  >>> ...summaries  of  work  carried  out  for  field  seasons  2004-05  and  2005-06  have been published in gsi records (ramachandra, 2006, 2007).  5  ii. geology of the dharwar craton       the archaean-proterozoic dharwar craton (fig.1; also see radhakrishna and naqvi, 1986) is an important component o...
+
+
+============================================================
+RANK 13 | Score: 29 | AMSE_7777_2004_2006_REPORT_1.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B15/Non Georeference & other/AMSE-7777/AMSE_7777_2004_2006_REPORT_1.pdf
+Categories: ['greenstone_framework', 'structural_control', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...dharwar craton (wdc):         the  wdc  is  characterized  by  basement  gneisses,  older  supracrustals  (sargur complex), the dharwar supergroup of rocks (younger supracrustals representing granite greenstone belts), intrusive granites and mafic dyke swarms.       the basement gneisses are constit...
+
+  Term: 'schist belt'
+  >>> ...s/hq/2004/004  government of india geological survey of india airborne mineral surveys and exploration wing  petrographic and geochemical studies of granitoids in the easter margin of the chitradurga schist belt and the terrain junction of the  western and eastern dharwar cratons                    ...
+
+  >>> ...no. rp/ams/hq/2004/004  field seasons 2004-05 and 2005-06  by  h.m. ramachandra  bangalore  january, 2010  petrographic and geochemical studies of granitoids in the eastern margin of the chitradurga schist belt and the terrain junction of the western and eastern dharwar cratons  code no. rp/ams/hq/...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...rieties of the granite supports this ascent and emplacement mechanism for the medikeripura granite.       the honnamaradi and jn kote granites are marginal to the nw-se trending crustal scale ductile shear zone on the eastern margin of the chitradurga schist belt. they show compositional  differenti...
+
+  >>> ...e grouped  all  the  younger  granitoids  in  the  edc  and  those  on  the  eastern  margin  of  the chitradurga  schist  belt  in  their  conceptual  ‘dharwar  batholith’.  they  believe  that  the shear zone on the eastern margin of the chitradurga schist belt may represent the contact between th...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'proterozoic'
+  >>> ...r craton (fig. 1) forms an important component of the precambrian shield in  south  india.  it  is  comprised  of  archaean  gneiss-supracrustals  and  granite-greenstone belts, mafic dyke swarms and proterozoic cover sediments. it is believed that the craton comprises two distinct terranes includin...
+
+  >>> ...summaries  of  work  carried  out  for  field  seasons  2004-05  and  2005-06  have been published in gsi records (ramachandra, 2006, 2007).  5  ii. geology of the dharwar craton       the archaean-proterozoic dharwar craton (fig.1; also see radhakrishna and naqvi, 1986) is an important component o...
+
+
+============================================================
+RANK 14 | Score: 29 | Copy of AMSE_7777_2004_2006_REPORT_1.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B15/Non Georeference & other/AMSE-7777/Copy of AMSE_7777_2004_2006_REPORT_1.pdf
+Categories: ['greenstone_framework', 'structural_control', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...dharwar craton (wdc):         the  wdc  is  characterized  by  basement  gneisses,  older  supracrustals  (sargur complex), the dharwar supergroup of rocks (younger supracrustals representing granite greenstone belts), intrusive granites and mafic dyke swarms.       the basement gneisses are constit...
+
+  Term: 'schist belt'
+  >>> ...s/hq/2004/004  government of india geological survey of india airborne mineral surveys and exploration wing  petrographic and geochemical studies of granitoids in the easter margin of the chitradurga schist belt and the terrain junction of the  western and eastern dharwar cratons                    ...
+
+  >>> ...no. rp/ams/hq/2004/004  field seasons 2004-05 and 2005-06  by  h.m. ramachandra  bangalore  january, 2010  petrographic and geochemical studies of granitoids in the eastern margin of the chitradurga schist belt and the terrain junction of the western and eastern dharwar cratons  code no. rp/ams/hq/...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...rieties of the granite supports this ascent and emplacement mechanism for the medikeripura granite.       the honnamaradi and jn kote granites are marginal to the nw-se trending crustal scale ductile shear zone on the eastern margin of the chitradurga schist belt. they show compositional  differenti...
+
+  >>> ...e grouped  all  the  younger  granitoids  in  the  edc  and  those  on  the  eastern  margin  of  the chitradurga  schist  belt  in  their  conceptual  ‘dharwar  batholith’.  they  believe  that  the shear zone on the eastern margin of the chitradurga schist belt may represent the contact between th...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'proterozoic'
+  >>> ...r craton (fig. 1) forms an important component of the precambrian shield in  south  india.  it  is  comprised  of  archaean  gneiss-supracrustals  and  granite-greenstone belts, mafic dyke swarms and proterozoic cover sediments. it is believed that the craton comprises two distinct terranes includin...
+
+  >>> ...summaries  of  work  carried  out  for  field  seasons  2004-05  and  2005-06  have been published in gsi records (ramachandra, 2006, 2007).  5  ii. geology of the dharwar craton       the archaean-proterozoic dharwar craton (fig.1; also see radhakrishna and naqvi, 1986) is an important component o...
+
+
+============================================================
+RANK 15 | Score: 29 | AMSE_7777_2004_2006_REPORT_1.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B08/Report Geology/AMSE-7777/AMSE_7777_2004_2006_REPORT_1.pdf
+Categories: ['greenstone_framework', 'structural_control', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...dharwar craton (wdc):         the  wdc  is  characterized  by  basement  gneisses,  older  supracrustals  (sargur complex), the dharwar supergroup of rocks (younger supracrustals representing granite greenstone belts), intrusive granites and mafic dyke swarms.       the basement gneisses are constit...
+
+  Term: 'schist belt'
+  >>> ...s/hq/2004/004  government of india geological survey of india airborne mineral surveys and exploration wing  petrographic and geochemical studies of granitoids in the easter margin of the chitradurga schist belt and the terrain junction of the  western and eastern dharwar cratons                    ...
+
+  >>> ...no. rp/ams/hq/2004/004  field seasons 2004-05 and 2005-06  by  h.m. ramachandra  bangalore  january, 2010  petrographic and geochemical studies of granitoids in the eastern margin of the chitradurga schist belt and the terrain junction of the western and eastern dharwar cratons  code no. rp/ams/hq/...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...rieties of the granite supports this ascent and emplacement mechanism for the medikeripura granite.       the honnamaradi and jn kote granites are marginal to the nw-se trending crustal scale ductile shear zone on the eastern margin of the chitradurga schist belt. they show compositional  differenti...
+
+  >>> ...e grouped  all  the  younger  granitoids  in  the  edc  and  those  on  the  eastern  margin  of  the chitradurga  schist  belt  in  their  conceptual  ‘dharwar  batholith’.  they  believe  that  the shear zone on the eastern margin of the chitradurga schist belt may represent the contact between th...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'proterozoic'
+  >>> ...r craton (fig. 1) forms an important component of the precambrian shield in  south  india.  it  is  comprised  of  archaean  gneiss-supracrustals  and  granite-greenstone belts, mafic dyke swarms and proterozoic cover sediments. it is believed that the craton comprises two distinct terranes includin...
+
+  >>> ...summaries  of  work  carried  out  for  field  seasons  2004-05  and  2005-06  have been published in gsi records (ramachandra, 2006, 2007).  5  ii. geology of the dharwar craton       the archaean-proterozoic dharwar craton (fig.1; also see radhakrishna and naqvi, 1986) is an important component o...
+
+
+============================================================
+RANK 16 | Score: 27 | SRO_13475_1999_2000_REPORT_1.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B07/Report Exploration/SRO-13475/SRO_13475_1999_2000_REPORT_1.pdf
+Categories: ['greenstone_framework', 'structural_control', 'deposit_footprint']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'schist belt'
+  >>> ...के वल सरकार(cid:547) ूयोग हेतु  for official use only   government of india    geological survey of india   exploration for gold in honnamaradi north   block, chitradurga schist belt, chitradurga   district, karnataka.   (code no. mie/sr/kg/1999/002)   (progress report for the field season 1999 – 20...
+
+  >>> ...hakul   geologist (jr)   no part of the report should be quoted or reproduced without prior written permission   from the director general, geological survey of india, kolkata.   project: chitradurga schist belt.   operations : karnataka & goa   bangalore   2004                                 prog...
+
+  Term: 'dharwar'
+  >>> .... regional geological set up:   ii. geology   the  chitradurga  schist  belt  is  a  linear  belt  of  low  grade  supracrustal  rocks   comprising,  metasediments  and  metavolcanics  belonging  to  dharwar  supergroup   (swaminath  et.  al  1976).  the  rocks  of  dharwar  supergroup  exhibit  cle...
+
+  >>> ...ist  belt  is  a  linear  belt  of  low  grade  supracrustal  rocks   comprising,  metasediments  and  metavolcanics  belonging  to  dharwar  supergroup   (swaminath  et.  al  1976).  the  rocks  of  dharwar  supergroup  exhibit  clear  basement   cover  relationship  with  peninsular  gneissic  com...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...f  chitradurga  schist  belt,  close  to  its  eastern  tectonised  contact   (chitradurga  eastern  margin  shear  zone)  with  peninsular  gneissic  complex.  the   prospect is a typical example of shear zone hosted gold mineralization in granodiorite.   the  honnamaradi  granitoid,  which  has  a...
+
+  >>> ...ship  with  peninsular  gneissic  complex  (pgc)  in  the  western  part  of   chitradurga schist belt. the eastern contact of the belt with pgc is marked by a n-s   to nnw-sse trending late-archaean shear zone (drury, 1983) which is considered as   the  dividing  line  between  the  high  temperatu...
+
+  Term: 'structural control'
+  >>> ...vious work   4)  present work   5)  acknowledgement   ii.  geology   1)  regional geological set up   2)  geology of honnamaradi area   a)  lithology   b)  structure   iii.  gold mineralisation   1)  structural control and vein geometry   2)  alteration   iv.   integration of geophysical data   v.  ...
+
+  >>> ...brittle-ductile  honnamaradi  shear  zone  hosts  gold  mineralization.  auriferous   quartz  veins  of  varying  dimensions  are  localized  along  minor  structures  within  this   shear zone.   1. structural control and vein geometry:   exploration  (e-1  stage)  carried  out  around  the  shaft ...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: 'strike length'
+  >>> ...aradi shear) related to the chitradurga eastern margin   shear  zone.  an  auriferous  quartz  lode  associated  with  a  principal  shear  fracture  in   honnamaradi shear has been delineated over a strike length of about 945m. a major   part  of  the  lode  is  hosted  by  sheared  sericitised  to...
+
+  >>> ...the   eastern shear zone. the western contact of the honnamaradi granite is tectonised and   marked by a shear zone. this structure, hereafter referred as honnamaradi shear, has   been traced over a strike length of about 1.6 km. there is a close spatial association of   honnamaradi  shear  with  th...
+
+
+============================================================
+RANK 17 | Score: 26 | 12107.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57F09/Report Geophysical/SRO-12107/12107.pdf
+Categories: ['greenstone_framework', 'deposit_footprint']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...i_12107   government of india  geological survey of india  geophysics division  southern region   report on   the regional gravity and magnetic investigations over a portion of the   eastern group of greenstone belts of andhra pradesh and karnataka.   and   detailed induced polarisation, resistivity...
+
+  >>> ...on of the   eastern group of greenstone belts of andhra pradesh and karnataka.   and   detailed induced polarisation, resistivity and magnetic surveys in   konapuram - kanaganapalle block of ramagiri greenstone belt,   anantapur district, andhra pradesh.   (field season: 1993 - 94)   by   m. kesavam...
+
+  Term: 'schist belt'
+  >>> .................................................... 22  i. location map ................................................................................................ 22  ii. geological map of kadiri schist belt, a p. .................................................. 23  iii. bouguer gravity map, p...
+
+  >>> ...parts of eastern group of greenstone  belts, parts of a p and karnataka. ................................................................... 26  vi. magnetic (vf) contour map, penukonda-kadiri-kolar schist belts, andhra  pradesh and karnataka. (fs: 1993-94). ............................................
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: 'strike length'
+  >>> ...napuram  and  kanaganapalle  the  baseline  was  laid  in  n-s  direction.  traverses,  orthogonal  to  the  base  line,  were  laid  at  100m  interval  towards  south  in  kanaganapalle area over a strike length of 1000m. in konapuram area the interval of  traverses was varied from 100 to 200m, to...
+
+  >>> ...gneissic complex, i-type granites. these zones possibly indicate  the  cumulative  response  of  the  enclaves  of  greenstone  at  depth  with  surface  manifestation as narrow bands of considerable strike length.   nosings  of  gravity  highs  superposed  over  the  regional  background  contours ...
+
+
+============================================================
+RANK 18 | Score: 25 | Full text with Annexure.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57E04/Report Exploration/CHQ-46991/Full text with Annexure.pdf
+Categories: ['greenstone_framework', 'structural_control', 'deposit_footprint']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...stralia (ga) collaborations  uncover-india  nature and quantum of work   personnels  acknowledgements   a.   2.2.  2.3.  2.4.  2.4.1.   regional geology  granite-greenstone terrain of dharwar craton  greenstone belts  cuddapah supergroup  nellore schist belt  metamorphism   mineral occurrences  regi...
+
+  >>> ...recommendations   4.3.10.1  4.3.10.2  4.3.11.  chapter-v  gooty- khaderpet (west of cuddapah) block   introduction  methodology and approach  geology of the area and major litho units   present work  greenstone belts  pgc-ii  amphibolites, gabbro, and anorthosite  other younger intrusions  kimberlit...
+
+  Term: 'schist belt'
+  >>> ...ure and quantum of work   personnels  acknowledgements   a.   2.2.  2.3.  2.4.  2.4.1.   regional geology  granite-greenstone terrain of dharwar craton  greenstone belts  cuddapah supergroup  nellore schist belt  metamorphism   mineral occurrences  regional geophysical aspect of dharwar craton  regi...
+
+  >>> ...4.3.2.   i.  ii.  iii.  iv.   4.3.3  4.3.3.1  4.3.3.2  4.3.3.3  4.3.3.4  4.3.3.5   4.3.4.   4.3.5.  4.3.6.  4.3.7  4.3.7.1   4.3.8.  4.3.8.1.   4.3.9.  4.3.10.   introduction  ramagiri-penakacherla schist belt  previous work  present work  methodology and approach  remote sensing study (alteration z...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...llowed basalt with y-junctions as the passage for quartz-carbonate veins  near yelishirur.  bif with quartz veins showing evidence of box work formation near nagavi.  geological map overlain on major shear zones in gadag area showing the traverse lines  for geochemical sampling in nw extension of gs...
+
+  Term: 'structural control'
+  >>> ...g gold field  traverse mapping   structure  structural elements and their mode of occurrence  non-diastrophic structure  diastrophic structure  planar feature  linear feature  superposed deformation  structural control on gold mineralization  geochronology  gold mineralization  gold mineralisation i...
+
+  >>> ...diastrophic structure  planar feature  linear feature  superposed deformation  structural control on gold mineralization  geochronology  gold mineralization  gold mineralisation in gadag schist belt  structural controls  stages of fluid channelization and mineralisation  hydro geochemistry  geochemi...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: 'buffer'
+  >>> ...-i. introduction  fig.1.1.   figure showing the toposheet covered in the uncover (southern transect) project with  a total area of 28,000 sq.km. the total length of the transect line is 560 km with a buffer  zone of 25km on either side.   chapter-ii. regional geology-geophysics, methodology and appr...
+
+
+============================================================
+RANK 19 | Score: 25 | Full text with Annexure.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57F05/Non Georeference & other/CHQ-46991/Full text with Annexure.pdf
+Categories: ['greenstone_framework', 'structural_control', 'deposit_footprint']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...stralia (ga) collaborations  uncover-india  nature and quantum of work   personnels  acknowledgements   a.   2.2.  2.3.  2.4.  2.4.1.   regional geology  granite-greenstone terrain of dharwar craton  greenstone belts  cuddapah supergroup  nellore schist belt  metamorphism   mineral occurrences  regi...
+
+  >>> ...recommendations   4.3.10.1  4.3.10.2  4.3.11.  chapter-v  gooty- khaderpet (west of cuddapah) block   introduction  methodology and approach  geology of the area and major litho units   present work  greenstone belts  pgc-ii  amphibolites, gabbro, and anorthosite  other younger intrusions  kimberlit...
+
+  Term: 'schist belt'
+  >>> ...ure and quantum of work   personnels  acknowledgements   a.   2.2.  2.3.  2.4.  2.4.1.   regional geology  granite-greenstone terrain of dharwar craton  greenstone belts  cuddapah supergroup  nellore schist belt  metamorphism   mineral occurrences  regional geophysical aspect of dharwar craton  regi...
+
+  >>> ...4.3.2.   i.  ii.  iii.  iv.   4.3.3  4.3.3.1  4.3.3.2  4.3.3.3  4.3.3.4  4.3.3.5   4.3.4.   4.3.5.  4.3.6.  4.3.7  4.3.7.1   4.3.8.  4.3.8.1.   4.3.9.  4.3.10.   introduction  ramagiri-penakacherla schist belt  previous work  present work  methodology and approach  remote sensing study (alteration z...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...llowed basalt with y-junctions as the passage for quartz-carbonate veins  near yelishirur.  bif with quartz veins showing evidence of box work formation near nagavi.  geological map overlain on major shear zones in gadag area showing the traverse lines  for geochemical sampling in nw extension of gs...
+
+  Term: 'structural control'
+  >>> ...g gold field  traverse mapping   structure  structural elements and their mode of occurrence  non-diastrophic structure  diastrophic structure  planar feature  linear feature  superposed deformation  structural control on gold mineralization  geochronology  gold mineralization  gold mineralisation i...
+
+  >>> ...diastrophic structure  planar feature  linear feature  superposed deformation  structural control on gold mineralization  geochronology  gold mineralization  gold mineralisation in gadag schist belt  structural controls  stages of fluid channelization and mineralisation  hydro geochemistry  geochemi...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: 'buffer'
+  >>> ...-i. introduction  fig.1.1.   figure showing the toposheet covered in the uncover (southern transect) project with  a total area of 28,000 sq.km. the total length of the transect line is 560 km with a buffer  zone of 25km on either side.   chapter-ii. regional geology-geophysics, methodology and appr...
+
+
+============================================================
+RANK 20 | Score: 25 | Full text with Annexure.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57A04/Report Exploration/CHQ-46991/Full text with Annexure.pdf
+Categories: ['greenstone_framework', 'structural_control', 'deposit_footprint']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...stralia (ga) collaborations  uncover-india  nature and quantum of work   personnels  acknowledgements   a.   2.2.  2.3.  2.4.  2.4.1.   regional geology  granite-greenstone terrain of dharwar craton  greenstone belts  cuddapah supergroup  nellore schist belt  metamorphism   mineral occurrences  regi...
+
+  >>> ...recommendations   4.3.10.1  4.3.10.2  4.3.11.  chapter-v  gooty- khaderpet (west of cuddapah) block   introduction  methodology and approach  geology of the area and major litho units   present work  greenstone belts  pgc-ii  amphibolites, gabbro, and anorthosite  other younger intrusions  kimberlit...
+
+  Term: 'schist belt'
+  >>> ...ure and quantum of work   personnels  acknowledgements   a.   2.2.  2.3.  2.4.  2.4.1.   regional geology  granite-greenstone terrain of dharwar craton  greenstone belts  cuddapah supergroup  nellore schist belt  metamorphism   mineral occurrences  regional geophysical aspect of dharwar craton  regi...
+
+  >>> ...4.3.2.   i.  ii.  iii.  iv.   4.3.3  4.3.3.1  4.3.3.2  4.3.3.3  4.3.3.4  4.3.3.5   4.3.4.   4.3.5.  4.3.6.  4.3.7  4.3.7.1   4.3.8.  4.3.8.1.   4.3.9.  4.3.10.   introduction  ramagiri-penakacherla schist belt  previous work  present work  methodology and approach  remote sensing study (alteration z...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...llowed basalt with y-junctions as the passage for quartz-carbonate veins  near yelishirur.  bif with quartz veins showing evidence of box work formation near nagavi.  geological map overlain on major shear zones in gadag area showing the traverse lines  for geochemical sampling in nw extension of gs...
+
+  Term: 'structural control'
+  >>> ...g gold field  traverse mapping   structure  structural elements and their mode of occurrence  non-diastrophic structure  diastrophic structure  planar feature  linear feature  superposed deformation  structural control on gold mineralization  geochronology  gold mineralization  gold mineralisation i...
+
+  >>> ...diastrophic structure  planar feature  linear feature  superposed deformation  structural control on gold mineralization  geochronology  gold mineralization  gold mineralisation in gadag schist belt  structural controls  stages of fluid channelization and mineralisation  hydro geochemistry  geochemi...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: 'buffer'
+  >>> ...-i. introduction  fig.1.1.   figure showing the toposheet covered in the uncover (southern transect) project with  a total area of 28,000 sq.km. the total length of the transect line is 560 km with a buffer  zone of 25km on either side.   chapter-ii. regional geology-geophysics, methodology and appr...
+
+
+============================================================
+RANK 21 | Score: 25 | SRO_13940_2002_2004_REPORT_1.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57C01/Non Georeference & other/SRO-13940/SRO_13940_2002_2004_REPORT_1.pdf
+Categories: ['greenstone_framework', 'deposit_footprint']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...(57 c/2) areas and found no significant anomaly.   1.6 present work:   the  present  item  of  stm  was  carried  out  mainly  to  bring out  in  detail  the  different   components of early archaean greenstone belts, especially the linear belt of enclaves marked   on the half  million geological  m...
+
+  Term: 'schist belt'
+  >>> ...ed and ocellar komatiitic peridotite and   an equally dominant chromite bearing layered intrusive ultramafic suite have been identified   in the northern strike extension of nuggihalli and j. c. pura schist belts. this belt called the   “antaraghatta  ultramafic  belt”  punctured  by  the arisikere-...
+
+  >>> ...belt disconnected by the arsikere-banavara granites in the south is otherwise in   continuation  with  the  nuggihalli  schist  belt  and  extends  upto  the  southeastern  boundary  of   the shimoga schist belt.   the antaraghatta ultramafic belt displays an easterly shift with respect to nuggihall...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: 'strike length'
+  >>> ...its pge mineralogy from one of the locations in the northern part of the   area.   the  presence  of  vast  areas  occupied  by  pillowed  nodular  or  ocelli  ultramafics   extending for over 50 km strike length and 500 m width as a major belt is being reported for   the  first  time.  thus  the  a...
+
+  >>> ...ltramafic belt displays an easterly shift with respect to nuggihalli   schist belt and a westerly shift in relation to j. c. pura schist belt. this major belt extends in   nnw-sse for more than 50 km strike length and 500 m average width from 40 km nw of   arsikere  in  the  south,  across  the  vad...
+
+  Term: '500 m'
+  >>> ...y from one of the locations in the northern part of the   area.   the  presence  of  vast  areas  occupied  by  pillowed  nodular  or  ocelli  ultramafics   extending for over 50 km strike length and 500 m width as a major belt is being reported for   the  first  time.  thus  the  additional  belt  ...
+
+  >>> ...plays an easterly shift with respect to nuggihalli   schist belt and a westerly shift in relation to j. c. pura schist belt. this major belt extends in   nnw-sse for more than 50 km strike length and 500 m average width from 40 km nw of   arsikere  in  the  south,  across  the  vadavathi  river  upt...
+
+
+============================================================
+RANK 22 | Score: 24 | SRO_13773_2006_2007_REPORT_1.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57F09/Non Georeference & other/SRO-13773/SRO_13773_2006_2007_REPORT_1.pdf
+Categories: ['greenstone_framework', 'structural_control', 'deposit_footprint', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...and 1994),suresh et al   (1995,1998,2002,2005)  identified  four  magma  suites  viz..  ttg,  calc-alkaline  tgm,  ms  and  afgs   suites; which are similar to four magma series described in abitibi greenstone belt.     ratnakar and leelanandam (1989), ratnakar (2007 and 2008), ratnakar et al.(2008)...
+
+  >>> ...f  the  eastern  block  of  the  dharwar  craton  (edc)    represents  a  calc-alkaline  arc  granitoid  batholith  (chadwick  et  al.  2000)  with  accreted  segments  of   intervening narrow linear greenstone belts of  inner-arc type which along  with  intrusive  synkinematic   granitoids      acc...
+
+  Term: 'schist belt'
+  >>> ...detailed petrographic and petrochemical studies of aegirine- riebeckite syenite bodies a)pulikonda alkaline complex within  tsundupalle schist belt,cuddapah and chittoor districts,a.p and b)  dancherla alkaline complex ,gooty area, anantapur district,a.p.  (item no.009,code no:- rp/sr/hq/2006/008)  ...
+
+  >>> ...craton.   2                                                    detailed petrographic and petrochemical studies of aegirine- riebeckite syenite bodies a)pulikonda alkaline complex within  tsundupalle schist belt,cuddapah and chittoor districts,a.p and  b)dancherla alkaline complex ,gooty area,ananta...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...syenites  were    derived  due  to  desilicification  and  accompanying    alkalifeldspar   mestasomatism  of  younger  potash  rich  granites  along  guntakal-gooty  fault  and  along  singanamala   shear zone respectively. the post-orogenic granites and a-type granites of palaeo-proterozoic age ar...
+
+  >>> ...ced  nearer  to  the  craton  margin  along  a  terrane  boundary  /suture    zone  marked  by   tsundupalli schist belt definining the eastern accretionary terrane  boundary of edc.i.e. rudravaram   shear zone(steep easterly dipping), located to the south of the cuddapah basin (cb) in chittoor dist...
+
+  Term: 'brittle-ductile'
+  >>> ...nd minor ultrapotassic flows (reddy,1999). the tectono-magmatic events   of edc with reference to alkaline magmatism are shown in table.1   geological set-up of syenites   pregranitic, premigmatitic, brittle-ductile sheared and folded pulikonda alakline complex   (pac)  was  emplaced  nearer  to  th...
+
+  >>> ...bottle  green  coloured  aegirine,  sphene  and  opaques.  the    fine  grained  (aplite)   luecosyenite is enriched in pyryte and contain  minor epidote, sphene, apatite and with actinolite. the   brittle-ductile  deformed  alkali-feldspar  granite  is  made-up  of  perthitic  microcline  and  quar...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: '500 m'
+  >>> ...te   margin  phenomena  have  left  records  within  the  great  indian  proterozoic  fold  belt  and  on  the   neighbouring cratons starting at c. 1800 ma. final continental collisions were over by 500 ma.    madhavan et al(1994) identified alkaline and subalkaline nature of syenites intrudig into...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'tectono-magmatic'
+  >>> ...zone was formed    within nallamalai fold belt (nfb ).this is  known as  racherla-sagileru-cheyyeru line and comprises    alkali syenites, lamproites  and minor ultrapotassic flows (reddy,1999). the tectono-magmatic events   of edc with reference to alkaline magmatism are shown in table.1   geologic...
+
+  Term: 'proterozoic'
+  >>> ...eldspar   mestasomatism  of  younger  potash  rich  granites  along  guntakal-gooty  fault  and  along  singanamala   shear zone respectively. the post-orogenic granites and a-type granites of palaeo-proterozoic age are   associated  with  dancherla  and  pulikonda  alkaline  complexes  in  edc.  th...
+
+  >>> ...rn  block  of    australia. the eastern block of the dharwar craton is studded with a number of small and a few large   aegirine-  riebeckite  bearing  syenite  bodies  of  late-  archaean  to  palaeoproterozoic  age  and  confined   along  major  regional  scale  deep  seated  crustal  weak  zones ...
+
+
+============================================================
+RANK 23 | Score: 24 | SRO_13773_2006_2007_REPORT_1.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57E08/Non Georeference & other/SRO-13773/SRO_13773_2006_2007_REPORT_1.pdf
+Categories: ['greenstone_framework', 'structural_control', 'deposit_footprint', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...and 1994),suresh et al   (1995,1998,2002,2005)  identified  four  magma  suites  viz..  ttg,  calc-alkaline  tgm,  ms  and  afgs   suites; which are similar to four magma series described in abitibi greenstone belt.     ratnakar and leelanandam (1989), ratnakar (2007 and 2008), ratnakar et al.(2008)...
+
+  >>> ...f  the  eastern  block  of  the  dharwar  craton  (edc)    represents  a  calc-alkaline  arc  granitoid  batholith  (chadwick  et  al.  2000)  with  accreted  segments  of   intervening narrow linear greenstone belts of  inner-arc type which along  with  intrusive  synkinematic   granitoids      acc...
+
+  Term: 'schist belt'
+  >>> ...detailed petrographic and petrochemical studies of aegirine- riebeckite syenite bodies a)pulikonda alkaline complex within  tsundupalle schist belt,cuddapah and chittoor districts,a.p and b)  dancherla alkaline complex ,gooty area, anantapur district,a.p.  (item no.009,code no:- rp/sr/hq/2006/008)  ...
+
+  >>> ...craton.   2                                                    detailed petrographic and petrochemical studies of aegirine- riebeckite syenite bodies a)pulikonda alkaline complex within  tsundupalle schist belt,cuddapah and chittoor districts,a.p and  b)dancherla alkaline complex ,gooty area,ananta...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...syenites  were    derived  due  to  desilicification  and  accompanying    alkalifeldspar   mestasomatism  of  younger  potash  rich  granites  along  guntakal-gooty  fault  and  along  singanamala   shear zone respectively. the post-orogenic granites and a-type granites of palaeo-proterozoic age ar...
+
+  >>> ...ced  nearer  to  the  craton  margin  along  a  terrane  boundary  /suture    zone  marked  by   tsundupalli schist belt definining the eastern accretionary terrane  boundary of edc.i.e. rudravaram   shear zone(steep easterly dipping), located to the south of the cuddapah basin (cb) in chittoor dist...
+
+  Term: 'brittle-ductile'
+  >>> ...nd minor ultrapotassic flows (reddy,1999). the tectono-magmatic events   of edc with reference to alkaline magmatism are shown in table.1   geological set-up of syenites   pregranitic, premigmatitic, brittle-ductile sheared and folded pulikonda alakline complex   (pac)  was  emplaced  nearer  to  th...
+
+  >>> ...bottle  green  coloured  aegirine,  sphene  and  opaques.  the    fine  grained  (aplite)   luecosyenite is enriched in pyryte and contain  minor epidote, sphene, apatite and with actinolite. the   brittle-ductile  deformed  alkali-feldspar  granite  is  made-up  of  perthitic  microcline  and  quar...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: '500 m'
+  >>> ...te   margin  phenomena  have  left  records  within  the  great  indian  proterozoic  fold  belt  and  on  the   neighbouring cratons starting at c. 1800 ma. final continental collisions were over by 500 ma.    madhavan et al(1994) identified alkaline and subalkaline nature of syenites intrudig into...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'tectono-magmatic'
+  >>> ...zone was formed    within nallamalai fold belt (nfb ).this is  known as  racherla-sagileru-cheyyeru line and comprises    alkali syenites, lamproites  and minor ultrapotassic flows (reddy,1999). the tectono-magmatic events   of edc with reference to alkaline magmatism are shown in table.1   geologic...
+
+  Term: 'proterozoic'
+  >>> ...eldspar   mestasomatism  of  younger  potash  rich  granites  along  guntakal-gooty  fault  and  along  singanamala   shear zone respectively. the post-orogenic granites and a-type granites of palaeo-proterozoic age are   associated  with  dancherla  and  pulikonda  alkaline  complexes  in  edc.  th...
+
+  >>> ...rn  block  of    australia. the eastern block of the dharwar craton is studded with a number of small and a few large   aegirine-  riebeckite  bearing  syenite  bodies  of  late-  archaean  to  palaeoproterozoic  age  and  confined   along  major  regional  scale  deep  seated  crustal  weak  zones ...
+
+
+============================================================
+RANK 24 | Score: 24 | SRO_13773_2006_2007_REPORT_1.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57E12/Non Georeference & other/SRO-13773/SRO_13773_2006_2007_REPORT_1.pdf
+Categories: ['greenstone_framework', 'structural_control', 'deposit_footprint', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...and 1994),suresh et al   (1995,1998,2002,2005)  identified  four  magma  suites  viz..  ttg,  calc-alkaline  tgm,  ms  and  afgs   suites; which are similar to four magma series described in abitibi greenstone belt.     ratnakar and leelanandam (1989), ratnakar (2007 and 2008), ratnakar et al.(2008)...
+
+  >>> ...f  the  eastern  block  of  the  dharwar  craton  (edc)    represents  a  calc-alkaline  arc  granitoid  batholith  (chadwick  et  al.  2000)  with  accreted  segments  of   intervening narrow linear greenstone belts of  inner-arc type which along  with  intrusive  synkinematic   granitoids      acc...
+
+  Term: 'schist belt'
+  >>> ...detailed petrographic and petrochemical studies of aegirine- riebeckite syenite bodies a)pulikonda alkaline complex within  tsundupalle schist belt,cuddapah and chittoor districts,a.p and b)  dancherla alkaline complex ,gooty area, anantapur district,a.p.  (item no.009,code no:- rp/sr/hq/2006/008)  ...
+
+  >>> ...craton.   2                                                    detailed petrographic and petrochemical studies of aegirine- riebeckite syenite bodies a)pulikonda alkaline complex within  tsundupalle schist belt,cuddapah and chittoor districts,a.p and  b)dancherla alkaline complex ,gooty area,ananta...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...syenites  were    derived  due  to  desilicification  and  accompanying    alkalifeldspar   mestasomatism  of  younger  potash  rich  granites  along  guntakal-gooty  fault  and  along  singanamala   shear zone respectively. the post-orogenic granites and a-type granites of palaeo-proterozoic age ar...
+
+  >>> ...ced  nearer  to  the  craton  margin  along  a  terrane  boundary  /suture    zone  marked  by   tsundupalli schist belt definining the eastern accretionary terrane  boundary of edc.i.e. rudravaram   shear zone(steep easterly dipping), located to the south of the cuddapah basin (cb) in chittoor dist...
+
+  Term: 'brittle-ductile'
+  >>> ...nd minor ultrapotassic flows (reddy,1999). the tectono-magmatic events   of edc with reference to alkaline magmatism are shown in table.1   geological set-up of syenites   pregranitic, premigmatitic, brittle-ductile sheared and folded pulikonda alakline complex   (pac)  was  emplaced  nearer  to  th...
+
+  >>> ...bottle  green  coloured  aegirine,  sphene  and  opaques.  the    fine  grained  (aplite)   luecosyenite is enriched in pyryte and contain  minor epidote, sphene, apatite and with actinolite. the   brittle-ductile  deformed  alkali-feldspar  granite  is  made-up  of  perthitic  microcline  and  quar...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: '500 m'
+  >>> ...te   margin  phenomena  have  left  records  within  the  great  indian  proterozoic  fold  belt  and  on  the   neighbouring cratons starting at c. 1800 ma. final continental collisions were over by 500 ma.    madhavan et al(1994) identified alkaline and subalkaline nature of syenites intrudig into...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'tectono-magmatic'
+  >>> ...zone was formed    within nallamalai fold belt (nfb ).this is  known as  racherla-sagileru-cheyyeru line and comprises    alkali syenites, lamproites  and minor ultrapotassic flows (reddy,1999). the tectono-magmatic events   of edc with reference to alkaline magmatism are shown in table.1   geologic...
+
+  Term: 'proterozoic'
+  >>> ...eldspar   mestasomatism  of  younger  potash  rich  granites  along  guntakal-gooty  fault  and  along  singanamala   shear zone respectively. the post-orogenic granites and a-type granites of palaeo-proterozoic age are   associated  with  dancherla  and  pulikonda  alkaline  complexes  in  edc.  th...
+
+  >>> ...rn  block  of    australia. the eastern block of the dharwar craton is studded with a number of small and a few large   aegirine-  riebeckite  bearing  syenite  bodies  of  late-  archaean  to  palaeoproterozoic  age  and  confined   along  major  regional  scale  deep  seated  crustal  weak  zones ...
+
+
+============================================================
+RANK 25 | Score: 24 | SRO_13773_2006_2007_REPORT_1.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57E11/Non Georeference & other/SRO-13773/SRO_13773_2006_2007_REPORT_1.pdf
+Categories: ['greenstone_framework', 'structural_control', 'deposit_footprint', 'metallogenic_episode']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...and 1994),suresh et al   (1995,1998,2002,2005)  identified  four  magma  suites  viz..  ttg,  calc-alkaline  tgm,  ms  and  afgs   suites; which are similar to four magma series described in abitibi greenstone belt.     ratnakar and leelanandam (1989), ratnakar (2007 and 2008), ratnakar et al.(2008)...
+
+  >>> ...f  the  eastern  block  of  the  dharwar  craton  (edc)    represents  a  calc-alkaline  arc  granitoid  batholith  (chadwick  et  al.  2000)  with  accreted  segments  of   intervening narrow linear greenstone belts of  inner-arc type which along  with  intrusive  synkinematic   granitoids      acc...
+
+  Term: 'schist belt'
+  >>> ...detailed petrographic and petrochemical studies of aegirine- riebeckite syenite bodies a)pulikonda alkaline complex within  tsundupalle schist belt,cuddapah and chittoor districts,a.p and b)  dancherla alkaline complex ,gooty area, anantapur district,a.p.  (item no.009,code no:- rp/sr/hq/2006/008)  ...
+
+  >>> ...craton.   2                                                    detailed petrographic and petrochemical studies of aegirine- riebeckite syenite bodies a)pulikonda alkaline complex within  tsundupalle schist belt,cuddapah and chittoor districts,a.p and  b)dancherla alkaline complex ,gooty area,ananta...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...syenites  were    derived  due  to  desilicification  and  accompanying    alkalifeldspar   mestasomatism  of  younger  potash  rich  granites  along  guntakal-gooty  fault  and  along  singanamala   shear zone respectively. the post-orogenic granites and a-type granites of palaeo-proterozoic age ar...
+
+  >>> ...ced  nearer  to  the  craton  margin  along  a  terrane  boundary  /suture    zone  marked  by   tsundupalli schist belt definining the eastern accretionary terrane  boundary of edc.i.e. rudravaram   shear zone(steep easterly dipping), located to the south of the cuddapah basin (cb) in chittoor dist...
+
+  Term: 'brittle-ductile'
+  >>> ...nd minor ultrapotassic flows (reddy,1999). the tectono-magmatic events   of edc with reference to alkaline magmatism are shown in table.1   geological set-up of syenites   pregranitic, premigmatitic, brittle-ductile sheared and folded pulikonda alakline complex   (pac)  was  emplaced  nearer  to  th...
+
+  >>> ...bottle  green  coloured  aegirine,  sphene  and  opaques.  the    fine  grained  (aplite)   luecosyenite is enriched in pyryte and contain  minor epidote, sphene, apatite and with actinolite. the   brittle-ductile  deformed  alkali-feldspar  granite  is  made-up  of  perthitic  microcline  and  quar...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: '500 m'
+  >>> ...te   margin  phenomena  have  left  records  within  the  great  indian  proterozoic  fold  belt  and  on  the   neighbouring cratons starting at c. 1800 ma. final continental collisions were over by 500 ma.    madhavan et al(1994) identified alkaline and subalkaline nature of syenites intrudig into...
+
+
+[METALLOGENIC_EPISODE]
+  Term: 'tectono-magmatic'
+  >>> ...zone was formed    within nallamalai fold belt (nfb ).this is  known as  racherla-sagileru-cheyyeru line and comprises    alkali syenites, lamproites  and minor ultrapotassic flows (reddy,1999). the tectono-magmatic events   of edc with reference to alkaline magmatism are shown in table.1   geologic...
+
+  Term: 'proterozoic'
+  >>> ...eldspar   mestasomatism  of  younger  potash  rich  granites  along  guntakal-gooty  fault  and  along  singanamala   shear zone respectively. the post-orogenic granites and a-type granites of palaeo-proterozoic age are   associated  with  dancherla  and  pulikonda  alkaline  complexes  in  edc.  th...
+
+  >>> ...rn  block  of    australia. the eastern block of the dharwar craton is studded with a number of small and a few large   aegirine-  riebeckite  bearing  syenite  bodies  of  late-  archaean  to  palaeoproterozoic  age  and  confined   along  major  regional  scale  deep  seated  crustal  weak  zones ...
+
+
+============================================================
+RANK 26 | Score: 23 | 7548.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57A16/Report Geophysical/AMSE-7548/7548.pdf
+Categories: ['greenstone_framework', 'deposit_footprint']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'schist belt'
+  >>> ...and   parts of anantapur, kurnool districts in andhra pradesh, between latitudes 14°50’ to 15°  10’   n and longitudes 76°50’ to 77°15’e.   the supracrustals comprising penakacherla-hagari and sandur schist belts is bordered   by  3.0  ga  migmatitic  gneisses  and  2.5  ga  granites  as  per  recen...
+
+  >>> ...s to the southeast of nimbagallu fall in shoshonitic field in a ternary diagram   of cipw norm minerals constituting sodia/potassic-mafic minerals.   the pyroclastics occurring in penakacherla-hagari schist belt indicated and supports   explosive  activity.    the  volcanogenic  sedimentary  sequenc...
+
+  Term: 'dharwar'
+  >>> ...ilable.   bruce  foote  (1886-89)  and  william  king  (1872)  carried  out  systematic  geological   mapping in the area and foote completed the work towards the end of 1890. he proposed the   name ‘dharwar’ in 1886 for the lower transition schistose group of rocks, which he described   no part of ...
+
+  >>> ...to geological survey of india, amse wing, bangalore.         acc. no. 7548   as  a  system  of  sedimentary  beds  and  intercalated  traps.  the  ‘hypogen  schists’  of  newbold   correspond to the ‘dharwar system’ of bruce foote smeeth (1916) classified the dharwars   of the karnataka state into t...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: 'strike length'
+  >>> ...of  .504  hill,  2.75  km.   s10e  of  chellakuriki,  .473  hill,  3km  s40w  of  chellakuriki  and  on  small  mound,  4.5  km,   s30e of chellakuriki. scanty outcrops of this unit as discontinuous strike length are observed   around  east  of  yalpi,yalpi  kaggal  and  paramadevanahalli  and  also...
+
+
+============================================================
+RANK 27 | Score: 23 | 7548.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57B13/Report Geophysical/AMSE-7548/7548.pdf
+Categories: ['greenstone_framework', 'deposit_footprint']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'schist belt'
+  >>> ...and   parts of anantapur, kurnool districts in andhra pradesh, between latitudes 14°50’ to 15°  10’   n and longitudes 76°50’ to 77°15’e.   the supracrustals comprising penakacherla-hagari and sandur schist belts is bordered   by  3.0  ga  migmatitic  gneisses  and  2.5  ga  granites  as  per  recen...
+
+  >>> ...s to the southeast of nimbagallu fall in shoshonitic field in a ternary diagram   of cipw norm minerals constituting sodia/potassic-mafic minerals.   the pyroclastics occurring in penakacherla-hagari schist belt indicated and supports   explosive  activity.    the  volcanogenic  sedimentary  sequenc...
+
+  Term: 'dharwar'
+  >>> ...ilable.   bruce  foote  (1886-89)  and  william  king  (1872)  carried  out  systematic  geological   mapping in the area and foote completed the work towards the end of 1890. he proposed the   name ‘dharwar’ in 1886 for the lower transition schistose group of rocks, which he described   no part of ...
+
+  >>> ...to geological survey of india, amse wing, bangalore.         acc. no. 7548   as  a  system  of  sedimentary  beds  and  intercalated  traps.  the  ‘hypogen  schists’  of  newbold   correspond to the ‘dharwar system’ of bruce foote smeeth (1916) classified the dharwars   of the karnataka state into t...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: 'strike length'
+  >>> ...of  .504  hill,  2.75  km.   s10e  of  chellakuriki,  .473  hill,  3km  s40w  of  chellakuriki  and  on  small  mound,  4.5  km,   s30e of chellakuriki. scanty outcrops of this unit as discontinuous strike length are observed   around  east  of  yalpi,yalpi  kaggal  and  paramadevanahalli  and  also...
+
+
+============================================================
+RANK 28 | Score: 23 | 7548.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57F01/Report Geophysical/AMSE-7548/7548.pdf
+Categories: ['greenstone_framework', 'deposit_footprint']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'schist belt'
+  >>> ...and   parts of anantapur, kurnool districts in andhra pradesh, between latitudes 14°50’ to 15°  10’   n and longitudes 76°50’ to 77°15’e.   the supracrustals comprising penakacherla-hagari and sandur schist belts is bordered   by  3.0  ga  migmatitic  gneisses  and  2.5  ga  granites  as  per  recen...
+
+  >>> ...s to the southeast of nimbagallu fall in shoshonitic field in a ternary diagram   of cipw norm minerals constituting sodia/potassic-mafic minerals.   the pyroclastics occurring in penakacherla-hagari schist belt indicated and supports   explosive  activity.    the  volcanogenic  sedimentary  sequenc...
+
+  Term: 'dharwar'
+  >>> ...ilable.   bruce  foote  (1886-89)  and  william  king  (1872)  carried  out  systematic  geological   mapping in the area and foote completed the work towards the end of 1890. he proposed the   name ‘dharwar’ in 1886 for the lower transition schistose group of rocks, which he described   no part of ...
+
+  >>> ...to geological survey of india, amse wing, bangalore.         acc. no. 7548   as  a  system  of  sedimentary  beds  and  intercalated  traps.  the  ‘hypogen  schists’  of  newbold   correspond to the ‘dharwar system’ of bruce foote smeeth (1916) classified the dharwars   of the karnataka state into t...
+
+
+[DEPOSIT_FOOTPRINT]
+  Term: 'strike length'
+  >>> ...of  .504  hill,  2.75  km.   s10e  of  chellakuriki,  .473  hill,  3km  s40w  of  chellakuriki  and  on  small  mound,  4.5  km,   s30e of chellakuriki. scanty outcrops of this unit as discontinuous strike length are observed   around  east  of  yalpi,yalpi  kaggal  and  paramadevanahalli  and  also...
+
+
+============================================================
+RANK 29 | Score: 23 | SRO_13433_1997_1998_REPORT_1.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57F07/Non Georeference & other/SRO-13433/SRO_13433_1997_1998_REPORT_1.pdf
+Categories: ['greenstone_framework', 'structural_control']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...dhra pradesh   (progress report for the field season 1997-98)   by   k.v.s.reddy,  geologist (sr)   introduction   the ramagiri – penakacherla schist belt (rpsb) is an important linear gold   bearing greenstone belt next only to kolar and hutti-maski belts of eastern dharwar   craton.  it  is  surro...
+
+  Term: 'schist belt'
+  >>> ...के .वी.एस. रे(cid:212)ड(cid:547), भूवै(cid:163)ािनक (व(cid:464)र(cid:437))   report on specialised thematic mapping of the   peninsular gneissic complex and supracrustals   of ramagiri-penakacherla schist belt in parts of   anantapur district, andhra pradesh   by   k.v.s. reddy  geologist (sr)   not...
+
+  >>> ...बाद  southern region  operations: andhra pradesh  hyderabad  2003             report on specialised thematic mapping of the   peninsular gneissic complex and supracrustals   of ramagiri-penakacherla schist belt in parts of   anantapur district, andhra pradesh   contents   abstract   introduction   ...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...ral transpression.   the later structures (post-mafic dyke) as inferred from emplacement pattern of   kimberlite and lamprophyre and displacement pattern along the early and later sets of   conjugate shear zones in the area indicate reactivation of early structures.   the  kammuru  gneiss along with...
+
+  >>> ...e  kammuru  gneiss along with  rocks  of  ramagiri-penakacherla  schist belt   exhibit  middle  amphibolite  facies  metamorphism  which  were  later  altered  to   greenschist assemblages along some shear zones.                   a diamondiferous kimberlite pipe (120 × 85 m) and a few occurrences ...
+
+
+============================================================
+RANK 30 | Score: 23 | SRO_13433_1997_1998_REPORT_1.pdf
+Path: data/external/karnataka_ap/technical_reports/Technical GSI Reports_PDFs_GIS_Spreadsheets etc/57F05/Report Geophysical/SRO-11921/SRO_13433_1997_1998_REPORT_1.pdf
+Categories: ['greenstone_framework', 'structural_control']
+----------------------------------------
+
+[GREENSTONE_FRAMEWORK]
+  Term: 'greenstone belt'
+  >>> ...dhra pradesh   (progress report for the field season 1997-98)   by   k.v.s.reddy,  geologist (sr)   introduction   the ramagiri – penakacherla schist belt (rpsb) is an important linear gold   bearing greenstone belt next only to kolar and hutti-maski belts of eastern dharwar   craton.  it  is  surro...
+
+  Term: 'schist belt'
+  >>> ...के .वी.एस. रे(cid:212)ड(cid:547), भूवै(cid:163)ािनक (व(cid:464)र(cid:437))   report on specialised thematic mapping of the   peninsular gneissic complex and supracrustals   of ramagiri-penakacherla schist belt in parts of   anantapur district, andhra pradesh   by   k.v.s. reddy  geologist (sr)   not...
+
+  >>> ...बाद  southern region  operations: andhra pradesh  hyderabad  2003             report on specialised thematic mapping of the   peninsular gneissic complex and supracrustals   of ramagiri-penakacherla schist belt in parts of   anantapur district, andhra pradesh   contents   abstract   introduction   ...
+
+
+[STRUCTURAL_CONTROL]
+  Term: 'shear zone'
+  >>> ...ral transpression.   the later structures (post-mafic dyke) as inferred from emplacement pattern of   kimberlite and lamprophyre and displacement pattern along the early and later sets of   conjugate shear zones in the area indicate reactivation of early structures.   the  kammuru  gneiss along with...
+
+  >>> ...e  kammuru  gneiss along with  rocks  of  ramagiri-penakacherla  schist belt   exhibit  middle  amphibolite  facies  metamorphism  which  were  later  altered  to   greenschist assemblages along some shear zones.                   a diamondiferous kimberlite pipe (120 × 85 m) and a few occurrences ...
+

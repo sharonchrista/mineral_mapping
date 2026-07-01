@@ -128,9 +128,24 @@ def compute_metrics(y_true, y_score, y_pred):
         m["auc_roc"] = float(roc_auc_score(y_true, y_score))
     except Exception:
         m["auc_pr"] = m["auc_roc"] = 0.0
+    # Optimal threshold F1 (fixed 0.5 threshold fails under PU weighting)
+    best_f1, best_mcc, best_thresh = 0.0, 0.0, 0.5
+    for thresh in np.linspace(0.01, 0.99, 50):
+        preds = (y_score >= thresh).astype(int)
+        if preds.sum() == 0:
+            continue
+        try:
+            f1 = float(f1_score(y_true, preds, zero_division=0))
+            if f1 > best_f1:
+                best_f1 = f1
+                best_thresh = thresh
+                best_mcc = float(matthews_corrcoef(y_true, preds))
+        except Exception:
+            continue
+    y_pred = (y_score >= best_thresh).astype(int)
     try:
-        m["f1"]  = float(f1_score(y_true, y_pred, zero_division=0))
-        m["mcc"] = float(matthews_corrcoef(y_true, y_pred))
+        m["f1"]  = best_f1
+        m["mcc"] = best_mcc
     except Exception:
         m["f1"] = m["mcc"] = 0.0
     return m
@@ -151,7 +166,7 @@ def train_fold(config, fold):
     train_mask = load_fold_mask(config["splits_dir"], fold,
                                 "train_pos_mask")
     val_mask   = load_fold_mask(config["splits_dir"], fold,
-                                "test_mask")
+                                "test_region_mask")
 
     # Training set — use pos mask for positives, unl mask for unlabeled
     unl_mask_path = Path(config["splits_dir"]) / f"fold{fold}_train_unl_mask.tif"
@@ -186,10 +201,13 @@ def train_fold(config, fold):
     print(f"  Train: {len(X_tr)} pixels  "
           f"pos={int(y_tr.sum())}  unl={int((y_tr==0).sum())}")
 
-    # Validation set (positive + random unlabeled)
-    print("Sampling validation pixels (full raster)...")
-    # Use full raster for validation — all positives + sampled unlabeled
+    # Validation set — restricted to the held-out test fold region only
+    print("Sampling validation pixels (test fold region only)...")
     valid   = ~np.isnan(data).any(axis=0)
+    if val_mask is not None:
+        valid = valid & (val_mask > 0)
+    else:
+        print("  WARNING: val_mask is None, falling back to full raster")
     pos_r, pos_c = np.where((labels==1) & valid)
     unl_r, unl_c = np.where((labels==0) & valid)
     n_unl = min(len(unl_r), len(pos_r)*5)

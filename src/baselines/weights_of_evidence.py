@@ -130,7 +130,7 @@ def train_fold(config, fold):
 
     # Load val mask for evaluation only
     val_mask = None
-    vm = Path(config["splits_dir"]) / f"fold{fold}_test_mask.tif"
+    vm = Path(config["splits_dir"]) / f"fold{fold}_test_region_mask.tif"
     if vm.exists():
         with rasterio.open(vm) as src:
             val_mask = src.read(1).astype("uint8")
@@ -178,10 +178,13 @@ def train_fold(config, fold):
     post_prob  = 1 / (1 + np.exp(-post_logit))
     post_prob  = np.where(np.isnan(woe_sum), np.nan, post_prob)
 
-    # Evaluate on full raster (sample for speed)
-    # Use all positive pixels + random sample of unlabeled
+    # Evaluate on the held-out test fold region only
     rng       = np.random.default_rng(42 + fold)
     all_valid = ~np.isnan(post_prob)
+    if val_mask is not None:
+        all_valid = all_valid & (val_mask > 0)
+    else:
+        print("  WARNING: val_mask is None, falling back to full raster")
     pos_mask  = (labels == 1) & all_valid
     unl_mask  = (labels == 0) & all_valid
     pos_r, pos_c = np.where(pos_mask)
@@ -192,7 +195,21 @@ def train_fold(config, fold):
     cols  = np.concatenate([pos_c, unl_c[idx]])
     y_true  = labels[rows, cols].astype(int)
     y_score = post_prob[rows, cols]
-    y_pred  = (y_score >= 0.5).astype(int)
+    # Optimal threshold F1
+    best_f1, best_mcc, best_thresh = 0.0, 0.0, 0.5
+    for thresh in np.linspace(0.01, 0.99, 50):
+        preds = (y_score >= thresh).astype(int)
+        if preds.sum() == 0:
+            continue
+        try:
+            f1 = float(f1_score(y_true, preds, zero_division=0))
+            if f1 > best_f1:
+                best_f1 = f1
+                best_thresh = thresh
+                best_mcc = float(matthews_corrcoef(y_true, preds))
+        except Exception:
+            continue
+    y_pred = (y_score >= best_thresh).astype(int)
 
 
 
