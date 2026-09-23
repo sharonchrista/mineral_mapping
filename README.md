@@ -4,10 +4,11 @@
 [![PyTorch 2.1](https://img.shields.io/badge/pytorch-2.1-orange.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **Paper:** *Deep Multi-Modal Fusion for Depth-Stratified 2D Mineral Prospectivity Mapping: Self-Supervised Vision Transformers Integrating Multi-Scale Geological Maps with Aeromagnetic Data*
+> **Paper:** *Self-Supervised Multi-modal Fusion for Mineral Prospectivity Mapping Using Vision Transformers Integrating Multi-scale Geological Maps with Aeromagnetic Data*
 > **Author:** Sharon Christa, MIT Art Design and Technology University, Pune, India
-> **Target Journal:** Natural Resources Research (Springer, Q1, IF 5.0)
-> **Status:** Under Review
+> **Journal:** Natural Resources Research (Springer, Q1, IF 6.0)
+> **Status:** Published
+> **DOI:** 10.1007/s11053-026-10771-3
 
 ---
 
